@@ -1,0 +1,3407 @@
+date,channelGrouping,socialNetwork,sessions,goal3Completions,goal5Completions
+2018-09-10,(Other),(not set),91,0,0
+2018-09-10,Direct,(not set),25,0,1
+2018-09-10,Organic Search,(not set),61,0,1
+2018-09-10,Paid Search,(not set),2,0,0
+2018-09-10,Referral,(not set),36,0,0
+2018-09-10,Social,Facebook,40,0,0
+2018-09-10,Social,LinkedIn,51,1,0
+2018-09-10,Social,Twitter,10,0,0
+2018-09-11,(Other),(not set),19,0,0
+2018-09-11,Direct,(not set),169,2,0
+2018-09-11,Organic Search,(not set),24,0,0
+2018-09-11,Paid Search,(not set),28,0,0
+2018-09-11,Referral,(not set),5,0,0
+2018-09-11,Social,Facebook,11,0,0
+2018-09-11,Social,LinkedIn,67,1,3
+2018-09-11,Social,Twitter,6,0,0
+2018-09-12,(Other),(not set),232,2,1
+2018-09-12,Direct,(not set),73,0,0
+2018-09-12,Organic Search,(not set),14,0,0
+2018-09-12,Paid Search,(not set),182,0,2
+2018-09-12,Referral,(not set),17,0,0
+2018-09-12,Social,Facebook,40,0,1
+2018-09-12,Social,LinkedIn,23,0,0
+2018-09-12,Social,Twitter,1,0,0
+2018-09-13,(Other),(not set),1,0,0
+2018-09-13,Direct,(not set),4,0,0
+2018-09-13,Organic Search,(not set),3,0,0
+2018-09-13,Paid Search,(not set),168,0,0
+2018-09-13,Referral,(not set),1,0,0
+2018-09-13,Social,Facebook,4,0,0
+2018-09-13,Social,LinkedIn,9,0,0
+2018-09-13,Social,Twitter,41,1,0
+2018-09-14,(Other),(not set),12,0,0
+2018-09-14,Direct,(not set),209,0,0
+2018-09-14,Email,(not set),2,0,0
+2018-09-14,Organic Search,(not set),10,0,0
+2018-09-14,Paid Search,(not set),71,1,2
+2018-09-14,Referral,(not set),91,0,2
+2018-09-14,Social,Facebook,15,0,0
+2018-09-14,Social,LinkedIn,67,1,0
+2018-09-14,Social,Twitter,153,0,2
+2018-09-15,(Other),(not set),1,0,0
+2018-09-15,Direct,(not set),128,0,2
+2018-09-15,Email,(not set),4,0,0
+2018-09-15,Organic Search,(not set),68,2,2
+2018-09-15,Paid Search,(not set),3,0,0
+2018-09-15,Referral,(not set),20,0,0
+2018-09-15,Social,Facebook,1,0,0
+2018-09-15,Social,LinkedIn,15,0,0
+2018-09-15,Social,Twitter,53,0,0
+2018-09-16,(Other),(not set),1,0,0
+2018-09-16,Direct,(not set),37,0,0
+2018-09-16,Email,(not set),15,0,0
+2018-09-16,Organic Search,(not set),79,0,0
+2018-09-16,Paid Search,(not set),75,0,0
+2018-09-16,Referral,(not set),1,0,0
+2018-09-16,Social,Facebook,50,0,0
+2018-09-16,Social,LinkedIn,1,0,0
+2018-09-16,Social,Twitter,46,0,0
+2018-09-17,(Other),(not set),22,0,0
+2018-09-17,Direct,(not set),7,0,0
+2018-09-17,Email,(not set),16,0,1
+2018-09-17,Organic Search,(not set),6,0,0
+2018-09-17,Paid Search,(not set),1,0,0
+2018-09-17,Referral,(not set),43,0,0
+2018-09-17,Social,Facebook,17,0,0
+2018-09-17,Social,LinkedIn,65,0,0
+2018-09-17,Social,reddit,1,0,0
+2018-09-17,Social,Twitter,17,0,0
+2018-09-17,Social,WordPress,201,0,4
+2018-09-18,(Other),(not set),15,1,1
+2018-09-18,Direct,(not set),5,1,0
+2018-09-18,Organic Search,(not set),80,0,0
+2018-09-18,Paid Search,(not set),24,0,0
+2018-09-18,Referral,(not set),18,0,0
+2018-09-18,Social,Facebook,5,0,0
+2018-09-18,Social,Instagram,14,0,0
+2018-09-18,Social,LinkedIn,24,0,0
+2018-09-18,Social,Twitter,26,0,0
+2018-09-19,(Other),(not set),128,0,2
+2018-09-19,Direct,(not set),2,0,0
+2018-09-19,Organic Search,(not set),175,0,0
+2018-09-19,Paid Search,(not set),23,0,0
+2018-09-19,Referral,(not set),127,0,0
+2018-09-19,Social,Facebook,216,0,2
+2018-09-19,Social,LinkedIn,92,0,0
+2018-09-19,Social,Twitter,2,0,0
+2018-09-20,(Other),(not set),152,0,0
+2018-09-20,Direct,(not set),9,0,0
+2018-09-20,Organic Search,(not set),34,0,0
+2018-09-20,Paid Search,(not set),2,0,0
+2018-09-20,Referral,(not set),1,0,0
+2018-09-20,Social,Facebook,14,0,0
+2018-09-20,Social,Instagram,5,0,0
+2018-09-20,Social,Instagram Stories,5,0,0
+2018-09-20,Social,LinkedIn,1,0,0
+2018-09-20,Social,Twitter,15,0,0
+2018-09-21,(Other),(not set),2,0,0
+2018-09-21,Direct,(not set),77,1,0
+2018-09-21,Email,(not set),189,0,0
+2018-09-21,Organic Search,(not set),46,0,1
+2018-09-21,Paid Search,(not set),9,0,0
+2018-09-21,Referral,(not set),5,0,0
+2018-09-21,Social,Facebook,11,0,0
+2018-09-21,Social,Instagram,1,0,0
+2018-09-21,Social,LinkedIn,214,2,2
+2018-09-21,Social,Twitter,147,0,0
+2018-09-22,(Other),(not set),2,0,0
+2018-09-22,Direct,(not set),42,0,1
+2018-09-22,Organic Search,(not set),7,0,0
+2018-09-22,Paid Search,(not set),21,0,0
+2018-09-22,Referral,(not set),21,0,0
+2018-09-22,Social,Facebook,1,0,0
+2018-09-22,Social,LinkedIn,4,0,0
+2018-09-22,Social,Twitter,2,0,0
+2018-09-23,(Other),(not set),52,0,1
+2018-09-23,Direct,(not set),49,0,0
+2018-09-23,Email,(not set),65,0,0
+2018-09-23,Organic Search,(not set),142,2,3
+2018-09-23,Paid Search,(not set),27,0,0
+2018-09-23,Referral,(not set),11,0,0
+2018-09-23,Social,Facebook,1,0,0
+2018-09-23,Social,Twitter,14,0,0
+2018-09-24,(Other),(not set),2,0,0
+2018-09-24,Direct,(not set),28,0,0
+2018-09-24,Email,(not set),32,0,0
+2018-09-24,Organic Search,(not set),63,0,0
+2018-09-24,Paid Search,(not set),6,0,0
+2018-09-24,Referral,(not set),7,0,0
+2018-09-24,Social,Facebook,16,0,0
+2018-09-24,Social,Instagram,1,0,0
+2018-09-24,Social,LinkedIn,24,0,0
+2018-09-24,Social,Twitter,28,0,0
+2018-09-25,(Other),(not set),12,0,0
+2018-09-25,Direct,(not set),15,0,0
+2018-09-25,Email,(not set),31,0,0
+2018-09-25,Organic Search,(not set),39,0,0
+2018-09-25,Paid Search,(not set),9,0,0
+2018-09-25,Referral,(not set),31,0,0
+2018-09-25,Social,Facebook,2,0,0
+2018-09-25,Social,Instagram,1,0,0
+2018-09-25,Social,LinkedIn,6,0,0
+2018-09-25,Social,Twitter,48,0,0
+2018-09-26,(Other),(not set),187,1,0
+2018-09-26,Direct,(not set),6,0,0
+2018-09-26,Email,(not set),1,0,0
+2018-09-26,Organic Search,(not set),10,0,0
+2018-09-26,Paid Search,(not set),2,0,0
+2018-09-26,Referral,(not set),71,0,1
+2018-09-26,Social,Facebook,1,0,0
+2018-09-26,Social,LinkedIn,7,0,0
+2018-09-26,Social,Twitter,6,0,0
+2018-09-27,(Other),(not set),5,0,1
+2018-09-27,Direct,(not set),13,0,0
+2018-09-27,Organic Search,(not set),17,0,0
+2018-09-27,Paid Search,(not set),19,0,0
+2018-09-27,Referral,(not set),41,0,0
+2018-09-27,Social,Facebook,2,0,0
+2018-09-27,Social,LinkedIn,77,0,0
+2018-09-27,Social,Twitter,12,0,0
+2018-09-28,(Other),(not set),1,0,0
+2018-09-28,Direct,(not set),73,0,0
+2018-09-28,Email,(not set),1,0,0
+2018-09-28,Organic Search,(not set),213,0,0
+2018-09-28,Paid Search,(not set),1,0,0
+2018-09-28,Referral,(not set),6,0,0
+2018-09-28,Social,Facebook,149,0,1
+2018-09-28,Social,Instagram Stories,17,0,0
+2018-09-28,Social,LinkedIn,2,0,0
+2018-09-28,Social,Twitter,7,0,0
+2018-09-29,(Other),(not set),4,0,0
+2018-09-29,Direct,(not set),151,2,0
+2018-09-29,Organic Search,(not set),38,0,0
+2018-09-29,Paid Search,(not set),5,0,0
+2018-09-29,Referral,(not set),63,0,0
+2018-09-29,Social,Facebook,8,0,0
+2018-09-29,Social,LinkedIn,12,0,0
+2018-09-29,Social,Twitter,4,0,0
+2018-09-30,(Other),(not set),5,0,0
+2018-09-30,Direct,(not set),2,0,0
+2018-09-30,Organic Search,(not set),4,0,0
+2018-09-30,Paid Search,(not set),4,0,1
+2018-09-30,Referral,(not set),5,0,0
+2018-09-30,Social,Facebook,2,0,0
+2018-09-30,Social,LinkedIn,103,0,0
+2018-09-30,Social,Twitter,1,0,0
+2018-10-01,(Other),(not set),54,0,0
+2018-10-01,Direct,(not set),66,0,0
+2018-10-01,Email,(not set),2,0,0
+2018-10-01,Organic Search,(not set),18,0,0
+2018-10-01,Paid Search,(not set),186,0,2
+2018-10-01,Referral,(not set),44,0,0
+2018-10-01,Social,Facebook,52,0,0
+2018-10-01,Social,Twitter,34,0,0
+2018-10-02,(Other),(not set),3,0,0
+2018-10-02,Direct,(not set),17,0,0
+2018-10-02,Email,(not set),10,0,0
+2018-10-02,Organic Search,(not set),2,0,0
+2018-10-02,Paid Search,(not set),153,0,2
+2018-10-02,Referral,(not set),22,0,0
+2018-10-02,Social,Facebook,20,0,0
+2018-10-02,Social,LinkedIn,30,0,0
+2018-10-02,Social,Twitter,47,0,0
+2018-10-03,(Other),(not set),3,0,0
+2018-10-03,Direct,(not set),59,2,1
+2018-10-03,Email,(not set),1,0,0
+2018-10-03,Organic Search,(not set),4,0,0
+2018-10-03,Paid Search,(not set),104,0,1
+2018-10-03,Referral,(not set),2,0,0
+2018-10-03,Social,Facebook,53,0,1
+2018-10-03,Social,Instagram Stories,23,0,0
+2018-10-03,Social,LinkedIn,78,0,0
+2018-10-03,Social,Twitter,157,0,0
+2018-10-04,(Other),(not set),13,0,0
+2018-10-04,Direct,(not set),14,0,0
+2018-10-04,Email,(not set),107,0,0
+2018-10-04,Organic Search,(not set),13,0,0
+2018-10-04,Paid Search,(not set),10,0,0
+2018-10-04,Referral,(not set),1,0,0
+2018-10-04,Social,Facebook,4,0,0
+2018-10-04,Social,Instagram,10,0,0
+2018-10-04,Social,Instagram Stories,2,0,0
+2018-10-04,Social,LinkedIn,2,0,0
+2018-10-04,Social,Twitter,69,0,0
+2018-10-05,(Other),(not set),6,0,0
+2018-10-05,Direct,(not set),81,0,0
+2018-10-05,Email,(not set),46,0,0
+2018-10-05,Organic Search,(not set),7,0,0
+2018-10-05,Paid Search,(not set),25,0,0
+2018-10-05,Referral,(not set),5,0,0
+2018-10-05,Social,Facebook,12,0,0
+2018-10-05,Social,Instagram Stories,4,0,0
+2018-10-05,Social,Twitter,16,0,0
+2018-10-06,(Other),(not set),9,0,0
+2018-10-06,Direct,(not set),48,0,0
+2018-10-06,Email,(not set),93,1,3
+2018-10-06,Organic Search,(not set),2,0,0
+2018-10-06,Paid Search,(not set),6,0,0
+2018-10-06,Referral,(not set),50,0,1
+2018-10-06,Social,Facebook,6,0,0
+2018-10-06,Social,Instagram Stories,67,0,1
+2018-10-06,Social,LinkedIn,87,0,0
+2018-10-06,Social,Twitter,48,0,1
+2018-10-07,(Other),(not set),31,0,0
+2018-10-07,Direct,(not set),11,0,0
+2018-10-07,Email,(not set),234,3,0
+2018-10-07,Organic Search,(not set),17,0,0
+2018-10-07,Paid Search,(not set),17,0,0
+2018-10-07,Referral,(not set),34,0,0
+2018-10-07,Social,Facebook,5,0,0
+2018-10-07,Social,Instagram Stories,8,0,0
+2018-10-07,Social,LinkedIn,1,0,0
+2018-10-07,Social,Quora,6,0,1
+2018-10-07,Social,reddit,21,0,0
+2018-10-07,Social,Twitter,39,0,0
+2018-10-08,(Other),(not set),35,0,0
+2018-10-08,Direct,(not set),2,0,0
+2018-10-08,Organic Search,(not set),2,0,0
+2018-10-08,Paid Search,(not set),9,0,0
+2018-10-08,Referral,(not set),2,0,0
+2018-10-08,Social,Facebook,5,0,0
+2018-10-08,Social,Instagram Stories,28,0,0
+2018-10-08,Social,LinkedIn,31,0,0
+2018-10-08,Social,Twitter,15,0,0
+2018-10-09,(Other),(not set),98,1,0
+2018-10-09,Direct,(not set),2,0,0
+2018-10-09,Email,(not set),10,0,0
+2018-10-09,Organic Search,(not set),10,0,0
+2018-10-09,Paid Search,(not set),39,0,0
+2018-10-09,Referral,(not set),225,2,3
+2018-10-09,Social,Facebook,117,1,0
+2018-10-09,Social,Instagram,14,0,0
+2018-10-09,Social,LinkedIn,9,0,0
+2018-10-09,Social,Twitter,1,0,0
+2018-10-10,(Other),(not set),16,1,0
+2018-10-10,Direct,(not set),2,0,0
+2018-10-10,Email,(not set),166,0,1
+2018-10-10,Organic Search,(not set),22,0,0
+2018-10-10,Paid Search,(not set),19,0,0
+2018-10-10,Referral,(not set),11,0,0
+2018-10-10,Social,Facebook,88,0,2
+2018-10-10,Social,LinkedIn,20,0,1
+2018-10-10,Social,Twitter,17,0,0
+2018-10-11,(Other),(not set),67,1,0
+2018-10-11,Direct,(not set),34,0,0
+2018-10-11,Email,(not set),16,1,0
+2018-10-11,Organic Search,(not set),36,0,1
+2018-10-11,Paid Search,(not set),12,0,0
+2018-10-11,Referral,(not set),16,0,0
+2018-10-11,Social,Facebook,74,0,0
+2018-10-11,Social,Instagram,206,0,0
+2018-10-11,Social,Instagram Stories,1,0,0
+2018-10-11,Social,LinkedIn,73,0,0
+2018-10-11,Social,Twitter,24,0,0
+2018-10-12,(Other),(not set),20,0,0
+2018-10-12,Direct,(not set),102,0,1
+2018-10-12,Email,(not set),21,0,0
+2018-10-12,Organic Search,(not set),23,0,0
+2018-10-12,Paid Search,(not set),11,0,0
+2018-10-12,Referral,(not set),9,0,0
+2018-10-12,Social,Facebook,29,0,0
+2018-10-12,Social,LinkedIn,3,0,0
+2018-10-12,Social,Twitter,6,0,0
+2018-10-13,(Other),(not set),52,0,0
+2018-10-13,Direct,(not set),4,0,0
+2018-10-13,Email,(not set),42,0,0
+2018-10-13,Organic Search,(not set),31,0,0
+2018-10-13,Paid Search,(not set),20,0,1
+2018-10-13,Referral,(not set),17,0,0
+2018-10-13,Social,Facebook,1,0,0
+2018-10-13,Social,Instapaper,9,0,0
+2018-10-13,Social,LinkedIn,5,0,0
+2018-10-13,Social,Twitter,27,0,0
+2018-10-14,(Other),(not set),14,0,0
+2018-10-14,Direct,(not set),1,0,0
+2018-10-14,Email,(not set),22,0,1
+2018-10-14,Organic Search,(not set),3,0,0
+2018-10-14,Paid Search,(not set),1,0,0
+2018-10-14,Referral,(not set),171,0,0
+2018-10-14,Social,Facebook,16,0,0
+2018-10-14,Social,LinkedIn,16,0,1
+2018-10-14,Social,Twitter,12,0,0
+2018-10-15,(Other),(not set),1,0,0
+2018-10-15,Direct,(not set),175,0,0
+2018-10-15,Email,(not set),219,1,2
+2018-10-15,Organic Search,(not set),2,0,0
+2018-10-15,Paid Search,(not set),179,2,1
+2018-10-15,Referral,(not set),87,0,0
+2018-10-15,Social,Facebook,2,0,0
+2018-10-15,Social,LinkedIn,142,2,2
+2018-10-15,Social,Quora,27,0,0
+2018-10-15,Social,Twitter,5,0,0
+2018-10-16,(Other),(not set),65,0,0
+2018-10-16,Direct,(not set),57,4,0
+2018-10-16,Email,(not set),2,0,0
+2018-10-16,Organic Search,(not set),36,0,0
+2018-10-16,Paid Search,(not set),71,0,3
+2018-10-16,Referral,(not set),1,0,0
+2018-10-16,Social,Facebook,3,0,0
+2018-10-16,Social,LinkedIn,238,0,0
+2018-10-16,Social,Twitter,12,0,0
+2018-10-17,(Other),(not set),1,0,0
+2018-10-17,Direct,(not set),14,0,0
+2018-10-17,Organic Search,(not set),9,0,0
+2018-10-17,Paid Search,(not set),10,0,0
+2018-10-17,Referral,(not set),2,0,0
+2018-10-17,Social,Facebook,17,0,0
+2018-10-17,Social,LinkedIn,22,0,0
+2018-10-17,Social,Twitter,216,0,0
+2018-10-18,(Other),(not set),5,0,0
+2018-10-18,Direct,(not set),131,4,2
+2018-10-18,Organic Search,(not set),17,0,0
+2018-10-18,Paid Search,(not set),5,0,0
+2018-10-18,Referral,(not set),21,0,0
+2018-10-18,Social,Facebook,89,0,0
+2018-10-18,Social,LinkedIn,5,0,0
+2018-10-18,Social,Twitter,69,1,0
+2018-10-19,(Other),(not set),22,1,0
+2018-10-19,Direct,(not set),13,0,0
+2018-10-19,Email,(not set),96,0,0
+2018-10-19,Organic Search,(not set),23,0,0
+2018-10-19,Paid Search,(not set),1,0,0
+2018-10-19,Referral,(not set),2,0,0
+2018-10-19,Social,Facebook,25,0,0
+2018-10-19,Social,Instagram,12,0,0
+2018-10-19,Social,LinkedIn,32,0,0
+2018-10-19,Social,Twitter,1,0,0
+2018-10-20,(Other),(not set),9,0,0
+2018-10-20,Direct,(not set),119,0,4
+2018-10-20,Organic Search,(not set),5,0,0
+2018-10-20,Paid Search,(not set),7,0,0
+2018-10-20,Referral,(not set),24,0,0
+2018-10-20,Social,Facebook,1,0,0
+2018-10-20,Social,LinkedIn,4,0,0
+2018-10-21,(Other),(not set),215,2,0
+2018-10-21,Direct,(not set),3,0,0
+2018-10-21,Email,(not set),20,0,0
+2018-10-21,Organic Search,(not set),127,0,0
+2018-10-21,Paid Search,(not set),166,0,1
+2018-10-21,Referral,(not set),77,0,0
+2018-10-21,Social,Facebook,16,0,0
+2018-10-21,Social,LinkedIn,47,0,0
+2018-10-21,Social,Twitter,7,0,0
+2018-10-22,(Other),(not set),20,0,0
+2018-10-22,Direct,(not set),80,1,1
+2018-10-22,Organic Search,(not set),6,1,0
+2018-10-22,Paid Search,(not set),13,0,0
+2018-10-22,Referral,(not set),27,0,0
+2018-10-22,Social,Facebook,188,1,3
+2018-10-22,Social,LinkedIn,2,0,0
+2018-10-22,Social,Twitter,1,0,0
+2018-10-22,Social,YouTube,7,0,0
+2018-10-23,(Other),(not set),25,0,0
+2018-10-23,Direct,(not set),37,0,0
+2018-10-23,Organic Search,(not set),1,0,0
+2018-10-23,Paid Search,(not set),45,0,0
+2018-10-23,Referral,(not set),19,0,0
+2018-10-23,Social,Facebook,50,0,0
+2018-10-23,Social,Instagram Stories,4,0,0
+2018-10-23,Social,LinkedIn,114,0,3
+2018-10-23,Social,Twitter,67,0,0
+2018-10-24,(Other),(not set),17,0,1
+2018-10-24,Direct,(not set),1,0,0
+2018-10-24,Organic Search,(not set),12,0,0
+2018-10-24,Paid Search,(not set),94,0,0
+2018-10-24,Referral,(not set),21,0,0
+2018-10-24,Social,Facebook,16,0,0
+2018-10-24,Social,LinkedIn,6,0,0
+2018-10-24,Social,Twitter,13,0,0
+2018-10-25,(Other),(not set),22,0,1
+2018-10-25,Direct,(not set),4,0,0
+2018-10-25,Organic Search,(not set),1,0,0
+2018-10-25,Paid Search,(not set),7,0,0
+2018-10-25,Referral,(not set),24,0,0
+2018-10-25,Social,Facebook,3,0,0
+2018-10-25,Social,Quora,8,0,0
+2018-10-25,Social,Twitter,27,0,0
+2018-10-26,(Other),(not set),1,0,0
+2018-10-26,Direct,(not set),3,0,0
+2018-10-26,Organic Search,(not set),232,2,1
+2018-10-26,Paid Search,(not set),5,0,0
+2018-10-26,Referral,(not set),8,0,0
+2018-10-26,Social,Facebook,8,0,0
+2018-10-26,Social,Instagram Stories,4,0,0
+2018-10-26,Social,Twitter,5,0,0
+2018-10-27,(Other),(not set),24,0,0
+2018-10-27,Direct,(not set),1,0,0
+2018-10-27,Organic Search,(not set),2,0,0
+2018-10-27,Paid Search,(not set),49,0,0
+2018-10-27,Referral,(not set),3,0,0
+2018-10-27,Social,Facebook,52,0,0
+2018-10-27,Social,Instagram Stories,2,0,0
+2018-10-27,Social,Quora,240,2,1
+2018-10-28,(Other),(not set),7,0,0
+2018-10-28,Direct,(not set),19,0,0
+2018-10-28,Organic Search,(not set),165,0,1
+2018-10-28,Paid Search,(not set),184,0,0
+2018-10-28,Referral,(not set),66,0,0
+2018-10-28,Social,Facebook,1,0,0
+2018-10-28,Social,Instagram,1,0,0
+2018-10-28,Social,Instagram Stories,4,0,1
+2018-10-28,Social,LinkedIn,6,0,0
+2018-10-28,Social,Twitter,8,0,0
+2018-10-29,(Other),(not set),75,0,0
+2018-10-29,Direct,(not set),6,0,0
+2018-10-29,Organic Search,(not set),11,0,0
+2018-10-29,Paid Search,(not set),6,0,0
+2018-10-29,Referral,(not set),15,0,0
+2018-10-29,Social,Facebook,39,0,0
+2018-10-29,Social,Instagram Stories,3,0,0
+2018-10-29,Social,LinkedIn,29,0,0
+2018-10-29,Social,Twitter,10,0,2
+2018-10-29,Social,WordPress,213,1,0
+2018-10-30,(Other),(not set),17,0,0
+2018-10-30,Direct,(not set),1,0,0
+2018-10-30,Organic Search,(not set),30,0,0
+2018-10-30,Paid Search,(not set),10,0,0
+2018-10-30,Referral,(not set),24,0,0
+2018-10-30,Social,Facebook,1,0,0
+2018-10-30,Social,Instagram,3,0,0
+2018-10-30,Social,Instagram Stories,28,0,0
+2018-10-30,Social,LinkedIn,180,0,2
+2018-10-30,Social,Twitter,53,0,0
+2018-10-31,(Other),(not set),8,0,0
+2018-10-31,Direct,(not set),10,0,0
+2018-10-31,Organic Search,(not set),29,0,0
+2018-10-31,Paid Search,(not set),6,0,0
+2018-10-31,Referral,(not set),82,0,0
+2018-10-31,Social,Facebook,5,0,0
+2018-10-31,Social,Instagram Stories,43,0,0
+2018-10-31,Social,LinkedIn,164,0,0
+2018-10-31,Social,Twitter,2,0,0
+2018-11-01,(Other),(not set),12,0,0
+2018-11-01,Direct,(not set),17,0,0
+2018-11-01,Organic Search,(not set),7,0,0
+2018-11-01,Paid Search,(not set),4,0,0
+2018-11-01,Referral,(not set),11,0,0
+2018-11-01,Social,Facebook,1,0,0
+2018-11-01,Social,Instagram,1,0,0
+2018-11-01,Social,Instagram Stories,9,0,0
+2018-11-01,Social,LinkedIn,64,0,0
+2018-11-01,Social,Twitter,12,0,0
+2018-11-02,(Other),(not set),5,0,0
+2018-11-02,Direct,(not set),2,0,0
+2018-11-02,Organic Search,(not set),2,0,0
+2018-11-02,Paid Search,(not set),133,1,0
+2018-11-02,Referral,(not set),7,0,0
+2018-11-02,Social,Facebook,6,0,0
+2018-11-02,Social,LinkedIn,4,0,0
+2018-11-02,Social,Twitter,5,0,0
+2018-11-03,(Other),(not set),180,1,0
+2018-11-03,Direct,(not set),40,0,0
+2018-11-03,Organic Search,(not set),1,0,0
+2018-11-03,Paid Search,(not set),11,0,0
+2018-11-03,Referral,(not set),17,1,0
+2018-11-03,Social,Facebook,47,0,0
+2018-11-03,Social,LinkedIn,164,0,0
+2018-11-03,Social,Twitter,51,0,0
+2018-11-04,(Other),(not set),1,0,0
+2018-11-04,Direct,(not set),80,1,0
+2018-11-04,Email,(not set),100,1,0
+2018-11-04,Organic Search,(not set),3,0,0
+2018-11-04,Paid Search,(not set),164,0,0
+2018-11-04,Referral,(not set),10,0,0
+2018-11-04,Social,Facebook,2,0,0
+2018-11-04,Social,LinkedIn,11,0,0
+2018-11-04,Social,Twitter,16,0,0
+2018-11-05,(Other),(not set),10,0,0
+2018-11-05,Direct,(not set),9,0,0
+2018-11-05,Organic Search,(not set),216,0,0
+2018-11-05,Paid Search,(not set),111,1,0
+2018-11-05,Referral,(not set),203,0,1
+2018-11-05,Social,Facebook,96,0,0
+2018-11-05,Social,Instagram,10,0,0
+2018-11-05,Social,Instagram Stories,15,0,0
+2018-11-05,Social,LinkedIn,19,0,0
+2018-11-05,Social,Twitter,152,2,1
+2018-11-06,(Other),(not set),5,0,0
+2018-11-06,Direct,(not set),27,0,0
+2018-11-06,Email,(not set),6,0,0
+2018-11-06,Organic Search,(not set),30,0,0
+2018-11-06,Paid Search,(not set),8,0,0
+2018-11-06,Referral,(not set),83,0,0
+2018-11-06,Social,Facebook,47,0,0
+2018-11-06,Social,LinkedIn,2,0,0
+2018-11-06,Social,Twitter,7,0,0
+2018-11-07,(Other),(not set),3,0,0
+2018-11-07,Direct,(not set),33,0,0
+2018-11-07,Email,(not set),2,0,0
+2018-11-07,Organic Search,(not set),213,1,0
+2018-11-07,Paid Search,(not set),11,0,0
+2018-11-07,Referral,(not set),157,0,0
+2018-11-07,Social,Facebook,16,0,1
+2018-11-07,Social,Instagram Stories,19,0,2
+2018-11-07,Social,LinkedIn,5,0,0
+2018-11-07,Social,Twitter,56,0,0
+2018-11-08,(Other),(not set),4,0,0
+2018-11-08,Direct,(not set),113,1,1
+2018-11-08,Email,(not set),5,0,0
+2018-11-08,Organic Search,(not set),11,0,0
+2018-11-08,Paid Search,(not set),41,0,0
+2018-11-08,Referral,(not set),19,1,0
+2018-11-08,Social,Facebook,4,0,0
+2018-11-08,Social,Instagram Stories,84,1,1
+2018-11-08,Social,LinkedIn,18,0,0
+2018-11-08,Social,Quora,81,0,0
+2018-11-08,Social,Twitter,12,0,0
+2018-11-09,(Other),(not set),7,0,0
+2018-11-09,Direct,(not set),8,0,0
+2018-11-09,Email,(not set),34,0,0
+2018-11-09,Organic Search,(not set),18,0,0
+2018-11-09,Paid Search,(not set),19,1,0
+2018-11-09,Referral,(not set),20,0,0
+2018-11-09,Social,Facebook,119,0,4
+2018-11-09,Social,Instagram,15,0,0
+2018-11-09,Social,LinkedIn,2,0,0
+2018-11-09,Social,Quora,35,0,0
+2018-11-09,Social,Twitter,12,0,0
+2018-11-10,(Other),(not set),1,0,0
+2018-11-10,Direct,(not set),1,0,0
+2018-11-10,Organic Search,(not set),17,0,0
+2018-11-10,Paid Search,(not set),1,0,0
+2018-11-10,Referral,(not set),52,0,0
+2018-11-10,Social,Facebook,2,0,0
+2018-11-10,Social,Instagram,143,0,0
+2018-11-10,Social,Instagram Stories,76,0,0
+2018-11-10,Social,LinkedIn,21,0,0
+2018-11-11,(Other),(not set),144,0,1
+2018-11-11,Direct,(not set),3,0,0
+2018-11-11,Organic Search,(not set),1,0,0
+2018-11-11,Paid Search,(not set),1,0,0
+2018-11-11,Referral,(not set),18,0,0
+2018-11-11,Social,Facebook,5,0,0
+2018-11-11,Social,Quora,16,0,0
+2018-11-11,Social,reddit,2,0,0
+2018-11-12,(Other),(not set),70,0,0
+2018-11-12,Direct,(not set),20,0,0
+2018-11-12,Organic Search,(not set),2,0,0
+2018-11-12,Paid Search,(not set),27,0,0
+2018-11-12,Referral,(not set),9,0,0
+2018-11-12,Social,Facebook,77,0,1
+2018-11-12,Social,Instagram,7,0,0
+2018-11-12,Social,LinkedIn,46,0,0
+2018-11-12,Social,Quora,24,0,0
+2018-11-12,Social,Twitter,13,0,0
+2018-11-12,Social,YouTube,20,0,0
+2018-11-13,(Other),(not set),140,2,2
+2018-11-13,Direct,(not set),9,0,0
+2018-11-13,Email,(not set),11,0,0
+2018-11-13,Organic Search,(not set),80,0,0
+2018-11-13,Paid Search,(not set),20,0,0
+2018-11-13,Referral,(not set),2,0,0
+2018-11-13,Social,Facebook,8,0,0
+2018-11-13,Social,LinkedIn,7,0,0
+2018-11-13,Social,Quora,27,0,0
+2018-11-13,Social,Twitter,1,0,0
+2018-11-14,(Other),(not set),25,0,0
+2018-11-14,Direct,(not set),1,0,0
+2018-11-14,Organic Search,(not set),2,0,0
+2018-11-14,Paid Search,(not set),2,0,0
+2018-11-14,Referral,(not set),2,0,0
+2018-11-14,Social,Facebook,11,2,0
+2018-11-14,Social,Instagram,215,2,1
+2018-11-14,Social,LinkedIn,19,0,0
+2018-11-14,Social,Quora,33,0,1
+2018-11-14,Social,Twitter,34,0,0
+2018-11-15,(Other),(not set),7,0,0
+2018-11-15,Direct,(not set),33,0,0
+2018-11-15,Organic Search,(not set),7,0,0
+2018-11-15,Paid Search,(not set),74,0,0
+2018-11-15,Referral,(not set),3,0,0
+2018-11-15,Social,Facebook,1,0,0
+2018-11-15,Social,LinkedIn,33,0,0
+2018-11-15,Social,Quora,13,0,1
+2018-11-15,Social,Twitter,5,0,0
+2018-11-16,(Other),(not set),7,0,0
+2018-11-16,Direct,(not set),171,0,0
+2018-11-16,Organic Search,(not set),1,0,0
+2018-11-16,Paid Search,(not set),14,0,0
+2018-11-16,Referral,(not set),2,0,0
+2018-11-16,Social,Facebook,6,0,0
+2018-11-16,Social,LinkedIn,7,0,0
+2018-11-16,Social,Quora,94,0,0
+2018-11-16,Social,Twitter,72,0,1
+2018-11-17,(Other),(not set),282,0,4
+2018-11-17,Direct,(not set),2,0,0
+2018-11-17,Organic Search,(not set),12,0,0
+2018-11-17,Paid Search,(not set),5,0,0
+2018-11-17,Referral,(not set),124,0,3
+2018-11-17,Social,Facebook,35,0,0
+2018-11-17,Social,Instagram,46,0,1
+2018-11-17,Social,Quora,142,2,2
+2018-11-17,Social,Twitter,75,0,0
+2018-11-18,(Other),(not set),53,0,0
+2018-11-18,Direct,(not set),1,0,0
+2018-11-18,Organic Search,(not set),1,0,0
+2018-11-18,Paid Search,(not set),22,0,0
+2018-11-18,Referral,(not set),3,0,0
+2018-11-18,Social,Facebook,9,0,0
+2018-11-18,Social,LinkedIn,79,0,1
+2018-11-18,Social,Quora,65,0,0
+2018-11-19,(Other),(not set),51,0,0
+2018-11-19,Direct,(not set),5,0,0
+2018-11-19,Organic Search,(not set),11,0,0
+2018-11-19,Paid Search,(not set),11,0,0
+2018-11-19,Referral,(not set),1,0,0
+2018-11-19,Social,Facebook,9,0,0
+2018-11-19,Social,LinkedIn,7,0,0
+2018-11-19,Social,Quora,12,0,0
+2018-11-19,Social,Twitter,54,0,0
+2018-11-20,(Other),(not set),90,0,0
+2018-11-20,Direct,(not set),144,0,0
+2018-11-20,Email,(not set),16,0,1
+2018-11-20,Organic Search,(not set),59,0,0
+2018-11-20,Paid Search,(not set),7,0,0
+2018-11-20,Referral,(not set),1,0,0
+2018-11-20,Social,Facebook,23,0,0
+2018-11-20,Social,LinkedIn,60,1,0
+2018-11-20,Social,Twitter,1,0,0
+2018-11-21,(Other),(not set),12,0,0
+2018-11-21,Direct,(not set),15,1,0
+2018-11-21,Email,(not set),73,0,0
+2018-11-21,Organic Search,(not set),26,0,0
+2018-11-21,Paid Search,(not set),20,0,0
+2018-11-21,Referral,(not set),93,0,0
+2018-11-21,Social,Facebook,3,0,0
+2018-11-21,Social,LinkedIn,141,0,0
+2018-11-21,Social,Quora,186,0,0
+2018-11-21,Social,Twitter,11,0,0
+2018-11-21,Social,YouTube,46,0,1
+2018-11-22,(Other),(not set),1,0,0
+2018-11-22,Direct,(not set),49,0,1
+2018-11-22,Email,(not set),47,0,0
+2018-11-22,Organic Search,(not set),37,0,0
+2018-11-22,Paid Search,(not set),4,0,0
+2018-11-22,Referral,(not set),142,2,2
+2018-11-22,Social,Facebook,3,0,0
+2018-11-22,Social,Instagram,1,0,0
+2018-11-22,Social,LinkedIn,71,0,0
+2018-11-22,Social,Quora,3,0,0
+2018-11-22,Social,Twitter,48,0,0
+2018-11-23,(Other),(not set),1,0,0
+2018-11-23,Direct,(not set),20,0,0
+2018-11-23,Organic Search,(not set),116,1,4
+2018-11-23,Paid Search,(not set),20,0,0
+2018-11-23,Referral,(not set),86,0,0
+2018-11-23,Social,Facebook,6,0,0
+2018-11-23,Social,LinkedIn,190,1,1
+2018-11-23,Social,Quora,5,0,0
+2018-11-23,Social,Twitter,44,0,0
+2018-11-24,(Other),(not set),181,0,0
+2018-11-24,Direct,(not set),73,0,0
+2018-11-24,Organic Search,(not set),6,0,0
+2018-11-24,Paid Search,(not set),25,0,0
+2018-11-24,Referral,(not set),1,0,0
+2018-11-24,Social,Facebook,4,0,0
+2018-11-24,Social,LinkedIn,4,0,0
+2018-11-24,Social,Quora,3,0,0
+2018-11-24,Social,Twitter,7,0,0
+2018-11-25,(Other),(not set),9,0,0
+2018-11-25,Direct,(not set),45,3,0
+2018-11-25,Organic Search,(not set),2,0,0
+2018-11-25,Paid Search,(not set),23,0,1
+2018-11-25,Referral,(not set),2,0,0
+2018-11-25,Social,Facebook,44,0,0
+2018-11-25,Social,LinkedIn,71,1,1
+2018-11-25,Social,Quora,23,0,0
+2018-11-25,Social,Twitter,18,0,0
+2018-11-26,(Other),(not set),70,0,0
+2018-11-26,Direct,(not set),1,0,0
+2018-11-26,Organic Search,(not set),16,0,0
+2018-11-26,Paid Search,(not set),2,0,0
+2018-11-26,Referral,(not set),1,0,0
+2018-11-26,Social,Facebook,23,0,0
+2018-11-26,Social,Instagram,16,0,0
+2018-11-26,Social,LinkedIn,1,0,0
+2018-11-26,Social,Twitter,20,0,0
+2018-11-27,(Other),(not set),2,0,0
+2018-11-27,Direct,(not set),34,0,2
+2018-11-27,Organic Search,(not set),16,0,0
+2018-11-27,Paid Search,(not set),27,0,0
+2018-11-27,Referral,(not set),1,0,0
+2018-11-27,Social,Facebook,2,0,0
+2018-11-27,Social,LinkedIn,11,0,0
+2018-11-27,Social,Twitter,25,0,0
+2018-11-28,(Other),(not set),4,0,0
+2018-11-28,Direct,(not set),38,0,0
+2018-11-28,Organic Search,(not set),2,0,0
+2018-11-28,Paid Search,(not set),4,0,0
+2018-11-28,Referral,(not set),53,0,0
+2018-11-28,Social,Facebook,4,0,1
+2018-11-28,Social,LinkedIn,1,0,0
+2018-11-28,Social,Twitter,1,0,0
+2018-11-28,Social,Yammer,95,0,0
+2018-11-29,(Other),(not set),1,0,0
+2018-11-29,Direct,(not set),34,0,0
+2018-11-29,Organic Search,(not set),38,0,0
+2018-11-29,Paid Search,(not set),7,0,0
+2018-11-29,Referral,(not set),34,0,0
+2018-11-29,Social,Facebook,2,0,0
+2018-11-29,Social,Instagram,112,0,0
+2018-11-29,Social,LinkedIn,249,1,4
+2018-11-29,Social,Twitter,2,0,0
+2018-11-29,Social,YouTube,23,0,0
+2018-11-30,(Other),(not set),3,0,0
+2018-11-30,Direct,(not set),102,0,1
+2018-11-30,Organic Search,(not set),230,2,2
+2018-11-30,Paid Search,(not set),44,0,0
+2018-11-30,Referral,(not set),35,0,0
+2018-11-30,Social,Facebook,67,1,0
+2018-11-30,Social,LinkedIn,78,1,0
+2018-11-30,Social,Twitter,29,0,0
+2018-11-30,Social,YouTube,7,0,0
+2018-12-01,(Other),(not set),69,0,0
+2018-12-01,Direct,(not set),6,0,0
+2018-12-01,Organic Search,(not set),14,0,0
+2018-12-01,Paid Search,(not set),1,0,0
+2018-12-01,Referral,(not set),76,0,0
+2018-12-01,Social,Facebook,77,0,0
+2018-12-01,Social,LinkedIn,49,0,0
+2018-12-02,(Other),(not set),4,0,0
+2018-12-02,Direct,(not set),49,0,0
+2018-12-02,Organic Search,(not set),27,0,0
+2018-12-02,Paid Search,(not set),87,0,0
+2018-12-02,Referral,(not set),1,0,0
+2018-12-02,Social,Facebook,23,0,0
+2018-12-02,Social,LinkedIn,12,0,0
+2018-12-02,Social,YouTube,195,3,3
+2018-12-03,(Other),(not set),3,0,0
+2018-12-03,Direct,(not set),3,0,0
+2018-12-03,Organic Search,(not set),87,0,0
+2018-12-03,Paid Search,(not set),15,0,0
+2018-12-03,Referral,(not set),12,0,0
+2018-12-03,Social,Facebook,10,0,0
+2018-12-03,Social,LinkedIn,60,0,0
+2018-12-03,Social,Twitter,9,0,0
+2018-12-03,Social,Yammer,23,0,0
+2018-12-04,(Other),(not set),14,0,0
+2018-12-04,Direct,(not set),39,0,0
+2018-12-04,Email,(not set),20,0,0
+2018-12-04,Organic Search,(not set),11,0,0
+2018-12-04,Paid Search,(not set),4,0,0
+2018-12-04,Referral,(not set),1,0,0
+2018-12-04,Social,Facebook,67,1,0
+2018-12-04,Social,LinkedIn,118,0,0
+2018-12-04,Social,Twitter,1,0,0
+2018-12-05,Direct,(not set),5,0,0
+2018-12-05,Organic Search,(not set),173,2,0
+2018-12-05,Paid Search,(not set),1,0,0
+2018-12-05,Referral,(not set),7,0,0
+2018-12-05,Social,Facebook,1,0,0
+2018-12-05,Social,LinkedIn,37,0,0
+2018-12-05,Social,Twitter,173,2,0
+2018-12-06,(Other),(not set),17,0,0
+2018-12-06,Direct,(not set),83,0,0
+2018-12-06,Email,(not set),2,0,0
+2018-12-06,Organic Search,(not set),73,0,0
+2018-12-06,Paid Search,(not set),4,0,0
+2018-12-06,Referral,(not set),23,0,0
+2018-12-06,Social,Facebook,61,1,0
+2018-12-06,Social,LinkedIn,1,0,0
+2018-12-06,Social,Twitter,6,0,0
+2018-12-07,Direct,(not set),34,0,0
+2018-12-07,Email,(not set),80,0,0
+2018-12-07,Organic Search,(not set),23,0,0
+2018-12-07,Paid Search,(not set),70,0,0
+2018-12-07,Referral,(not set),18,0,0
+2018-12-07,Social,Facebook,49,0,0
+2018-12-07,Social,LinkedIn,1,0,0
+2018-12-07,Social,Twitter,1,0,0
+2018-12-08,(Other),(not set),18,0,0
+2018-12-08,Direct,(not set),29,0,0
+2018-12-08,Organic Search,(not set),84,0,0
+2018-12-08,Paid Search,(not set),69,0,0
+2018-12-08,Referral,(not set),16,0,0
+2018-12-08,Social,Facebook,31,0,0
+2018-12-08,Social,LinkedIn,44,0,0
+2018-12-08,Social,reddit,5,0,0
+2018-12-08,Social,Twitter,4,0,0
+2018-12-09,(Other),(not set),167,0,3
+2018-12-09,Direct,(not set),1,0,0
+2018-12-09,Organic Search,(not set),10,0,0
+2018-12-09,Paid Search,(not set),4,0,0
+2018-12-09,Referral,(not set),61,0,0
+2018-12-09,Social,Facebook,1,0,0
+2018-12-09,Social,LinkedIn,11,0,0
+2018-12-09,Social,Twitter,12,0,0
+2018-12-10,Direct,(not set),93,0,0
+2018-12-10,Organic Search,(not set),99,1,3
+2018-12-10,Paid Search,(not set),116,0,0
+2018-12-10,Referral,(not set),72,0,0
+2018-12-10,Social,Facebook,11,0,0
+2018-12-10,Social,Instagram,9,0,0
+2018-12-10,Social,LinkedIn,2,0,0
+2018-12-10,Social,Twitter,1,0,0
+2018-12-11,(Other),(not set),60,0,0
+2018-12-11,Direct,(not set),42,0,0
+2018-12-11,Organic Search,(not set),5,0,0
+2018-12-11,Paid Search,(not set),1,0,0
+2018-12-11,Referral,(not set),2,0,0
+2018-12-11,Social,Instagram,3,0,0
+2018-12-11,Social,LinkedIn,3,0,0
+2018-12-11,Social,Twitter,1,0,0
+2018-12-12,(Other),(not set),177,0,0
+2018-12-12,Direct,(not set),2,0,0
+2018-12-12,Email,(not set),2,0,0
+2018-12-12,Organic Search,(not set),6,0,0
+2018-12-12,Paid Search,(not set),40,0,0
+2018-12-12,Referral,(not set),1,0,0
+2018-12-12,Social,Facebook,53,0,0
+2018-12-12,Social,LinkedIn,7,0,0
+2018-12-12,Social,Twitter,50,0,1
+2018-12-12,Social,YouTube,17,0,0
+2018-12-13,(Other),(not set),1,0,0
+2018-12-13,Direct,(not set),6,0,0
+2018-12-13,Organic Search,(not set),1,0,0
+2018-12-13,Paid Search,(not set),66,0,0
+2018-12-13,Referral,(not set),5,0,0
+2018-12-13,Social,Facebook,9,0,0
+2018-12-13,Social,LinkedIn,20,0,0
+2018-12-13,Social,Twitter,20,0,0
+2018-12-14,Direct,(not set),2,0,0
+2018-12-14,Organic Search,(not set),2,0,0
+2018-12-14,Paid Search,(not set),180,1,4
+2018-12-14,Referral,(not set),7,0,0
+2018-12-14,Social,LinkedIn,19,0,0
+2018-12-15,(Other),(not set),39,0,0
+2018-12-15,Direct,(not set),1,0,0
+2018-12-15,Organic Search,(not set),8,0,0
+2018-12-15,Paid Search,(not set),6,0,0
+2018-12-15,Referral,(not set),16,0,0
+2018-12-15,Social,Facebook,74,0,0
+2018-12-15,Social,LinkedIn,2,0,0
+2018-12-15,Social,Twitter,56,0,0
+2018-12-16,(Other),(not set),189,0,0
+2018-12-16,Direct,(not set),4,0,0
+2018-12-16,Organic Search,(not set),12,0,0
+2018-12-16,Paid Search,(not set),47,0,0
+2018-12-16,Referral,(not set),46,0,0
+2018-12-16,Social,Facebook,13,0,0
+2018-12-16,Social,Instagram,1,0,0
+2018-12-16,Social,Twitter,195,4,2
+2018-12-17,(Other),(not set),7,0,0
+2018-12-17,Direct,(not set),4,0,0
+2018-12-17,Organic Search,(not set),58,0,0
+2018-12-17,Paid Search,(not set),34,0,0
+2018-12-17,Referral,(not set),69,0,0
+2018-12-17,Social,Facebook,2,0,0
+2018-12-17,Social,LinkedIn,44,0,0
+2018-12-17,Social,Twitter,7,0,0
+2018-12-18,(Other),(not set),41,0,3
+2018-12-18,Direct,(not set),23,0,1
+2018-12-18,Organic Search,(not set),1,0,0
+2018-12-18,Paid Search,(not set),21,0,0
+2018-12-18,Referral,(not set),26,0,0
+2018-12-18,Social,Facebook,184,2,0
+2018-12-18,Social,LinkedIn,204,0,1
+2018-12-18,Social,Twitter,2,0,0
+2018-12-19,(Other),(not set),19,0,0
+2018-12-19,Direct,(not set),1,0,0
+2018-12-19,Email,(not set),6,0,0
+2018-12-19,Organic Search,(not set),6,0,0
+2018-12-19,Paid Search,(not set),29,0,0
+2018-12-19,Referral,(not set),28,0,0
+2018-12-19,Social,Facebook,32,0,0
+2018-12-19,Social,LinkedIn,96,0,0
+2018-12-19,Social,Twitter,22,0,0
+2018-12-20,(Other),(not set),77,0,1
+2018-12-20,Direct,(not set),3,0,0
+2018-12-20,Email,(not set),2,0,0
+2018-12-20,Organic Search,(not set),51,0,0
+2018-12-20,Paid Search,(not set),1,0,0
+2018-12-20,Referral,(not set),41,0,1
+2018-12-20,Social,Facebook,44,0,0
+2018-12-20,Social,LinkedIn,20,0,0
+2018-12-20,Social,Twitter,46,0,0
+2018-12-21,(Other),(not set),20,0,0
+2018-12-21,Direct,(not set),1,0,0
+2018-12-21,Organic Search,(not set),15,0,0
+2018-12-21,Paid Search,(not set),1,0,0
+2018-12-21,Referral,(not set),1,0,0
+2018-12-21,Social,Facebook,13,0,0
+2018-12-21,Social,LinkedIn,195,0,0
+2018-12-21,Social,Quora,1,0,0
+2018-12-21,Social,Twitter,1,0,0
+2018-12-22,Direct,(not set),3,0,0
+2018-12-22,Organic Search,(not set),5,0,0
+2018-12-22,Paid Search,(not set),1,0,0
+2018-12-22,Referral,(not set),3,0,0
+2018-12-22,Social,Facebook,12,0,0
+2018-12-22,Social,LinkedIn,6,0,0
+2018-12-22,Social,Twitter,27,0,0
+2018-12-23,(Other),(not set),18,0,0
+2018-12-23,Direct,(not set),11,0,0
+2018-12-23,Organic Search,(not set),1,0,0
+2018-12-23,Paid Search,(not set),1,0,0
+2018-12-23,Referral,(not set),1,0,0
+2018-12-23,Social,Facebook,46,0,0
+2018-12-23,Social,Twitter,1,0,0
+2018-12-24,Direct,(not set),1,0,0
+2018-12-24,Email,(not set),90,0,0
+2018-12-24,Organic Search,(not set),15,0,0
+2018-12-24,Paid Search,(not set),40,0,0
+2018-12-24,Referral,(not set),7,0,0
+2018-12-24,Social,Facebook,47,0,0
+2018-12-24,Social,Instagram,12,0,0
+2018-12-24,Social,LinkedIn,7,0,0
+2018-12-25,(Other),(not set),8,0,0
+2018-12-25,Direct,(not set),1,0,0
+2018-12-25,Organic Search,(not set),2,0,0
+2018-12-25,Paid Search,(not set),11,0,0
+2018-12-25,Referral,(not set),3,0,0
+2018-12-25,Social,LinkedIn,6,1,0
+2018-12-26,(Other),(not set),95,0,2
+2018-12-26,Direct,(not set),1,0,0
+2018-12-26,Organic Search,(not set),179,0,0
+2018-12-26,Paid Search,(not set),2,0,0
+2018-12-26,Referral,(not set),5,0,0
+2018-12-26,Social,Facebook,5,0,1
+2018-12-26,Social,LinkedIn,1,0,0
+2018-12-27,(Other),(not set),22,0,0
+2018-12-27,Direct,(not set),7,0,0
+2018-12-27,Organic Search,(not set),69,0,0
+2018-12-27,Paid Search,(not set),71,0,0
+2018-12-27,Referral,(not set),198,1,0
+2018-12-27,Social,Facebook,48,0,0
+2018-12-27,Social,LinkedIn,6,0,0
+2018-12-28,Direct,(not set),63,1,1
+2018-12-28,Organic Search,(not set),11,0,0
+2018-12-28,Paid Search,(not set),1,0,0
+2018-12-28,Referral,(not set),51,0,3
+2018-12-28,Social,Facebook,55,0,2
+2018-12-28,Social,LinkedIn,25,0,0
+2018-12-28,Social,Quora,2,0,0
+2018-12-29,(Other),(not set),5,0,0
+2018-12-29,Direct,(not set),30,0,0
+2018-12-29,Organic Search,(not set),39,0,0
+2018-12-29,Paid Search,(not set),65,0,0
+2018-12-29,Referral,(not set),3,0,0
+2018-12-29,Social,LinkedIn,25,0,0
+2018-12-30,(Other),(not set),13,0,0
+2018-12-30,Direct,(not set),44,0,0
+2018-12-30,Organic Search,(not set),52,0,0
+2018-12-30,Paid Search,(not set),10,0,1
+2018-12-30,Referral,(not set),7,0,0
+2018-12-30,Social,Facebook,7,0,0
+2018-12-30,Social,LinkedIn,19,1,0
+2018-12-30,Social,Twitter,6,0,0
+2018-12-31,(Other),(not set),33,1,0
+2018-12-31,Direct,(not set),2,0,0
+2018-12-31,Organic Search,(not set),67,0,0
+2018-12-31,Paid Search,(not set),7,0,0
+2018-12-31,Referral,(not set),14,0,0
+2018-12-31,Social,Facebook,60,0,1
+2018-12-31,Social,Instagram,1,0,0
+2018-12-31,Social,LinkedIn,4,0,0
+2018-12-31,Social,Twitter,6,0,0
+2019-01-01,(Other),(not set),1,0,0
+2019-01-01,Direct,(not set),13,0,0
+2019-01-01,Organic Search,(not set),42,0,0
+2019-01-01,Paid Search,(not set),20,0,0
+2019-01-01,Referral,(not set),62,0,0
+2019-01-01,Social,Facebook,24,0,0
+2019-01-01,Social,LinkedIn,1,0,0
+2019-01-01,Social,Twitter,70,0,1
+2019-01-02,Direct,(not set),17,0,0
+2019-01-02,Organic Search,(not set),44,0,0
+2019-01-02,Paid Search,(not set),7,0,0
+2019-01-02,Referral,(not set),48,0,0
+2019-01-02,Social,Facebook,82,0,0
+2019-01-02,Social,LinkedIn,1,0,0
+2019-01-02,Social,Twitter,9,0,0
+2019-01-03,(Other),(not set),23,0,0
+2019-01-03,Direct,(not set),142,2,2
+2019-01-03,Organic Search,(not set),33,0,0
+2019-01-03,Paid Search,(not set),46,1,1
+2019-01-03,Referral,(not set),2,0,0
+2019-01-03,Social,Facebook,3,0,0
+2019-01-03,Social,LinkedIn,119,0,1
+2019-01-03,Social,Twitter,81,0,0
+2019-01-04,(Other),(not set),1,0,0
+2019-01-04,Direct,(not set),30,0,0
+2019-01-04,Organic Search,(not set),40,0,0
+2019-01-04,Paid Search,(not set),193,0,2
+2019-01-04,Referral,(not set),17,0,0
+2019-01-04,Social,Facebook,7,0,0
+2019-01-04,Social,LinkedIn,183,0,0
+2019-01-04,Social,Quora,2,0,0
+2019-01-04,Social,Twitter,24,0,0
+2019-01-05,Direct,(not set),5,0,0
+2019-01-05,Organic Search,(not set),6,0,0
+2019-01-05,Paid Search,(not set),1,0,0
+2019-01-05,Referral,(not set),4,0,0
+2019-01-05,Social,Facebook,101,1,0
+2019-01-05,Social,LinkedIn,7,0,0
+2019-01-05,Social,Twitter,185,0,0
+2019-01-06,Direct,(not set),12,0,0
+2019-01-06,Organic Search,(not set),30,0,0
+2019-01-06,Paid Search,(not set),88,0,1
+2019-01-06,Referral,(not set),99,1,2
+2019-01-06,Social,Facebook,6,0,0
+2019-01-06,Social,LinkedIn,5,0,0
+2019-01-06,Social,reddit,1,0,0
+2019-01-06,Social,Twitter,152,0,0
+2019-01-07,Direct,(not set),63,0,0
+2019-01-07,Email,(not set),182,1,0
+2019-01-07,Organic Search,(not set),16,0,0
+2019-01-07,Paid Search,(not set),32,0,0
+2019-01-07,Referral,(not set),3,0,0
+2019-01-07,Social,Facebook,110,0,2
+2019-01-07,Social,LinkedIn,68,0,1
+2019-01-07,Social,Twitter,6,0,0
+2019-01-08,Direct,(not set),2,0,0
+2019-01-08,Organic Search,(not set),92,0,0
+2019-01-08,Paid Search,(not set),12,0,0
+2019-01-08,Referral,(not set),14,0,0
+2019-01-08,Social,Facebook,2,0,0
+2019-01-08,Social,LinkedIn,74,1,2
+2019-01-08,Social,Twitter,10,0,0
+2019-01-09,Direct,(not set),9,0,0
+2019-01-09,Organic Search,(not set),77,0,1
+2019-01-09,Paid Search,(not set),10,0,0
+2019-01-09,Referral,(not set),17,0,1
+2019-01-09,Social,Facebook,6,0,0
+2019-01-09,Social,LinkedIn,6,0,0
+2019-01-09,Social,Twitter,20,0,0
+2019-01-10,Direct,(not set),9,0,0
+2019-01-10,Organic Search,(not set),28,0,0
+2019-01-10,Paid Search,(not set),4,0,0
+2019-01-10,Referral,(not set),112,0,1
+2019-01-10,Social,Facebook,1,0,0
+2019-01-10,Social,LinkedIn,113,1,1
+2019-01-10,Social,Twitter,60,0,0
+2019-01-11,Direct,(not set),18,0,0
+2019-01-11,Organic Search,(not set),12,0,0
+2019-01-11,Paid Search,(not set),5,0,0
+2019-01-11,Referral,(not set),8,0,0
+2019-01-11,Social,Facebook,3,0,0
+2019-01-11,Social,LinkedIn,9,1,1
+2019-01-11,Social,Quora,94,1,1
+2019-01-11,Social,Twitter,1,0,0
+2019-01-12,Direct,(not set),13,1,0
+2019-01-12,Email,(not set),113,0,2
+2019-01-12,Organic Search,(not set),19,0,0
+2019-01-12,Paid Search,(not set),15,0,0
+2019-01-12,Referral,(not set),15,0,0
+2019-01-12,Social,Facebook,58,0,0
+2019-01-12,Social,LinkedIn,28,0,0
+2019-01-12,Social,Twitter,55,0,0
+2019-01-12,Social,YouTube,101,0,0
+2019-01-13,Direct,(not set),7,0,0
+2019-01-13,Organic Search,(not set),8,0,0
+2019-01-13,Paid Search,(not set),3,0,0
+2019-01-13,Referral,(not set),3,0,0
+2019-01-13,Social,Facebook,5,0,0
+2019-01-13,Social,LinkedIn,1,0,0
+2019-01-13,Social,Twitter,10,0,0
+2019-01-14,Direct,(not set),87,0,0
+2019-01-14,Organic Search,(not set),2,0,0
+2019-01-14,Paid Search,(not set),22,0,0
+2019-01-14,Referral,(not set),49,0,1
+2019-01-14,Social,Facebook,1,0,0
+2019-01-14,Social,LinkedIn,42,0,1
+2019-01-14,Social,Twitter,184,0,0
+2019-01-15,Direct,(not set),1,0,0
+2019-01-15,Organic Search,(not set),2,0,0
+2019-01-15,Paid Search,(not set),15,0,0
+2019-01-15,Referral,(not set),26,0,0
+2019-01-15,Social,Facebook,15,0,1
+2019-01-15,Social,LinkedIn,9,0,0
+2019-01-15,Social,Twitter,10,0,0
+2019-01-16,Direct,(not set),5,0,0
+2019-01-16,Organic Search,(not set),118,2,1
+2019-01-16,Paid Search,(not set),167,0,3
+2019-01-16,Referral,(not set),11,0,0
+2019-01-16,Social,Facebook,5,0,0
+2019-01-16,Social,LinkedIn,6,0,0
+2019-01-16,Social,Twitter,44,0,0
+2019-01-17,Direct,(not set),7,0,0
+2019-01-17,Organic Search,(not set),2,0,0
+2019-01-17,Paid Search,(not set),3,0,0
+2019-01-17,Referral,(not set),1,0,0
+2019-01-17,Social,Facebook,2,0,0
+2019-01-17,Social,LinkedIn,87,0,0
+2019-01-17,Social,Twitter,7,0,0
+2019-01-18,Direct,(not set),185,0,0
+2019-01-18,Email,(not set),66,0,0
+2019-01-18,Organic Search,(not set),5,0,0
+2019-01-18,Paid Search,(not set),3,0,0
+2019-01-18,Referral,(not set),1,0,0
+2019-01-18,Social,LinkedIn,5,0,0
+2019-01-18,Social,Twitter,18,0,0
+2019-01-19,(Other),(not set),33,0,0
+2019-01-19,Direct,(not set),1,0,0
+2019-01-19,Email,(not set),3,0,0
+2019-01-19,Organic Search,(not set),11,0,0
+2019-01-19,Paid Search,(not set),177,0,0
+2019-01-19,Referral,(not set),9,0,0
+2019-01-19,Social,Facebook,17,0,0
+2019-01-19,Social,LinkedIn,13,0,0
+2019-01-20,(Other),(not set),12,0,0
+2019-01-20,Direct,(not set),25,0,0
+2019-01-20,Email,(not set),1,0,0
+2019-01-20,Organic Search,(not set),30,0,0
+2019-01-20,Paid Search,(not set),16,0,0
+2019-01-20,Referral,(not set),3,0,0
+2019-01-20,Social,Facebook,1,0,0
+2019-01-20,Social,LinkedIn,10,0,0
+2019-01-20,Social,Twitter,10,0,0
+2019-01-21,Direct,(not set),40,0,0
+2019-01-21,Email,(not set),9,0,0
+2019-01-21,Organic Search,(not set),1,0,0
+2019-01-21,Paid Search,(not set),2,0,0
+2019-01-21,Referral,(not set),2,0,1
+2019-01-21,Social,Facebook,1,0,0
+2019-01-21,Social,LinkedIn,82,0,0
+2019-01-21,Social,Twitter,2,0,0
+2019-01-22,Direct,(not set),5,1,0
+2019-01-22,Email,(not set),3,0,0
+2019-01-22,Organic Search,(not set),18,0,0
+2019-01-22,Paid Search,(not set),4,0,0
+2019-01-22,Referral,(not set),3,0,0
+2019-01-22,Social,Blogger,168,1,0
+2019-01-22,Social,Facebook,46,0,0
+2019-01-22,Social,LinkedIn,74,0,0
+2019-01-22,Social,Quora,15,1,0
+2019-01-22,Social,Twitter,12,0,0
+2019-01-22,Social,YouTube,56,0,1
+2019-01-23,Direct,(not set),5,0,0
+2019-01-23,Organic Search,(not set),5,0,0
+2019-01-23,Paid Search,(not set),80,1,1
+2019-01-23,Referral,(not set),69,0,0
+2019-01-23,Social,Facebook,3,1,0
+2019-01-23,Social,LinkedIn,52,0,0
+2019-01-23,Social,Twitter,35,0,0
+2019-01-24,Direct,(not set),1,0,0
+2019-01-24,Organic Search,(not set),25,0,0
+2019-01-24,Paid Search,(not set),2,0,0
+2019-01-24,Referral,(not set),7,0,0
+2019-01-24,Social,Facebook,14,0,0
+2019-01-24,Social,Instagram,2,0,0
+2019-01-24,Social,LinkedIn,183,0,0
+2019-01-24,Social,Twitter,2,0,0
+2019-01-25,Direct,(not set),70,0,0
+2019-01-25,Email,(not set),8,0,0
+2019-01-25,Organic Search,(not set),53,0,2
+2019-01-25,Paid Search,(not set),42,0,1
+2019-01-25,Referral,(not set),108,0,0
+2019-01-25,Social,Facebook,86,2,0
+2019-01-25,Social,LinkedIn,1,0,0
+2019-01-25,Social,Twitter,1,0,0
+2019-01-26,Direct,(not set),68,1,0
+2019-01-26,Organic Search,(not set),39,0,0
+2019-01-26,Paid Search,(not set),5,1,0
+2019-01-26,Referral,(not set),2,0,0
+2019-01-26,Social,Facebook,1,0,0
+2019-01-26,Social,LinkedIn,72,0,0
+2019-01-26,Social,Twitter,47,0,0
+2019-01-27,Direct,(not set),3,0,0
+2019-01-27,Organic Search,(not set),24,0,0
+2019-01-27,Paid Search,(not set),78,0,0
+2019-01-27,Referral,(not set),73,0,0
+2019-01-27,Social,Facebook,55,1,1
+2019-01-27,Social,LinkedIn,205,2,2
+2019-01-27,Social,Twitter,2,0,0
+2019-01-28,(Other),(not set),41,0,0
+2019-01-28,Direct,(not set),240,1,1
+2019-01-28,Email,(not set),17,0,0
+2019-01-28,Organic Search,(not set),20,0,0
+2019-01-28,Paid Search,(not set),56,0,0
+2019-01-28,Referral,(not set),1,0,0
+2019-01-28,Social,Facebook,4,0,0
+2019-01-28,Social,LinkedIn,12,0,0
+2019-01-28,Social,Twitter,5,0,0
+2019-01-29,Direct,(not set),10,1,0
+2019-01-29,Email,(not set),6,0,0
+2019-01-29,Organic Search,(not set),2,0,0
+2019-01-29,Paid Search,(not set),6,0,0
+2019-01-29,Referral,(not set),186,0,0
+2019-01-29,Social,Facebook,5,0,0
+2019-01-29,Social,LinkedIn,1,0,0
+2019-01-29,Social,Twitter,193,0,0
+2019-01-30,Direct,(not set),215,2,0
+2019-01-30,Email,(not set),1,0,0
+2019-01-30,Organic Search,(not set),1,0,0
+2019-01-30,Paid Search,(not set),187,4,0
+2019-01-30,Referral,(not set),1,0,0
+2019-01-30,Social,Facebook,27,0,0
+2019-01-30,Social,Instagram Stories,23,0,0
+2019-01-30,Social,LinkedIn,88,0,2
+2019-01-30,Social,Quora,2,0,0
+2019-01-30,Social,Twitter,166,0,0
+2019-01-31,Direct,(not set),43,0,0
+2019-01-31,Email,(not set),49,0,0
+2019-01-31,Organic Search,(not set),60,0,0
+2019-01-31,Paid Search,(not set),87,0,3
+2019-01-31,Referral,(not set),74,0,0
+2019-01-31,Social,Facebook,3,0,0
+2019-01-31,Social,Instagram,56,0,0
+2019-01-31,Social,Instagram Stories,5,0,0
+2019-01-31,Social,LinkedIn,1,0,0
+2019-01-31,Social,Twitter,3,0,0
+2019-02-01,Direct,(not set),1,0,0
+2019-02-01,Email,(not set),20,0,0
+2019-02-01,Organic Search,(not set),137,0,1
+2019-02-01,Paid Search,(not set),58,1,0
+2019-02-01,Referral,(not set),182,0,2
+2019-02-01,Social,Facebook,2,0,0
+2019-02-01,Social,Instagram Stories,1,0,0
+2019-02-01,Social,LinkedIn,14,0,0
+2019-02-01,Social,reddit,1,0,0
+2019-02-01,Social,Twitter,4,0,0
+2019-02-02,Direct,(not set),92,0,0
+2019-02-02,Organic Search,(not set),36,0,0
+2019-02-02,Paid Search,(not set),153,0,2
+2019-02-02,Referral,(not set),12,0,0
+2019-02-02,Social,Facebook,5,0,0
+2019-02-02,Social,Instagram Stories,151,1,0
+2019-02-02,Social,LinkedIn,83,0,0
+2019-02-02,Social,Twitter,13,0,0
+2019-02-03,Direct,(not set),2,0,0
+2019-02-03,Organic Search,(not set),1,0,0
+2019-02-03,Paid Search,(not set),2,0,0
+2019-02-03,Referral,(not set),1,0,0
+2019-02-03,Social,Facebook,36,0,0
+2019-02-03,Social,Instagram Stories,4,0,0
+2019-02-03,Social,LinkedIn,1,0,0
+2019-02-03,Social,Twitter,12,0,0
+2019-02-04,Direct,(not set),3,0,0
+2019-02-04,Organic Search,(not set),40,0,0
+2019-02-04,Paid Search,(not set),10,0,0
+2019-02-04,Referral,(not set),87,1,1
+2019-02-04,Social,Facebook,4,1,0
+2019-02-04,Social,Instagram,23,0,0
+2019-02-04,Social,Instagram Stories,1,0,0
+2019-02-04,Social,LinkedIn,2,0,1
+2019-02-04,Social,Twitter,106,2,1
+2019-02-05,Direct,(not set),9,0,0
+2019-02-05,Organic Search,(not set),63,1,1
+2019-02-05,Paid Search,(not set),10,0,0
+2019-02-05,Referral,(not set),305,2,2
+2019-02-05,Social,Facebook,165,0,0
+2019-02-05,Social,Instagram,6,0,0
+2019-02-05,Social,Instagram Stories,32,0,0
+2019-02-05,Social,LinkedIn,10,0,0
+2019-02-05,Social,Twitter,84,0,0
+2019-02-06,Direct,(not set),21,0,0
+2019-02-06,Organic Search,(not set),2,0,0
+2019-02-06,Paid Search,(not set),2,0,0
+2019-02-06,Referral,(not set),23,0,0
+2019-02-06,Social,Facebook,38,0,0
+2019-02-06,Social,Instagram Stories,6,0,0
+2019-02-06,Social,LinkedIn,1,0,0
+2019-02-06,Social,Twitter,175,0,0
+2019-02-07,Direct,(not set),46,0,1
+2019-02-07,Organic Search,(not set),189,0,0
+2019-02-07,Paid Search,(not set),16,0,1
+2019-02-07,Referral,(not set),5,0,0
+2019-02-07,Social,Facebook,44,0,0
+2019-02-07,Social,Instagram,125,1,1
+2019-02-07,Social,Instagram Stories,1,0,0
+2019-02-07,Social,LinkedIn,2,0,0
+2019-02-07,Social,Twitter,2,0,0
+2019-02-08,Direct,(not set),168,1,3
+2019-02-08,Organic Search,(not set),23,0,0
+2019-02-08,Paid Search,(not set),17,0,0
+2019-02-08,Referral,(not set),27,0,0
+2019-02-08,Social,Facebook,3,0,0
+2019-02-08,Social,Instagram,3,0,0
+2019-02-08,Social,Instagram Stories,18,0,0
+2019-02-08,Social,LinkedIn,33,0,0
+2019-02-08,Social,Quora,1,0,0
+2019-02-08,Social,Twitter,57,3,0
+2019-02-09,(Other),(not set),183,1,0
+2019-02-09,Direct,(not set),44,0,0
+2019-02-09,Organic Search,(not set),2,0,0
+2019-02-09,Paid Search,(not set),105,0,0
+2019-02-09,Referral,(not set),229,3,1
+2019-02-09,Social,Facebook,5,0,0
+2019-02-09,Social,Instagram Stories,4,0,0
+2019-02-09,Social,LinkedIn,1,0,0
+2019-02-09,Social,Twitter,122,1,1
+2019-02-10,Direct,(not set),20,0,0
+2019-02-10,Organic Search,(not set),80,1,0
+2019-02-10,Paid Search,(not set),77,0,0
+2019-02-10,Referral,(not set),131,3,2
+2019-02-10,Social,Facebook,1,0,0
+2019-02-10,Social,Instagram,16,0,0
+2019-02-10,Social,Instagram Stories,162,0,0
+2019-02-10,Social,LinkedIn,31,0,0
+2019-02-10,Social,Twitter,1,0,0
+2019-02-11,Direct,(not set),8,0,0
+2019-02-11,Organic Search,(not set),41,0,0
+2019-02-11,Paid Search,(not set),24,0,1
+2019-02-11,Referral,(not set),4,0,0
+2019-02-11,Social,Facebook,91,0,1
+2019-02-11,Social,Instagram Stories,1,0,0
+2019-02-11,Social,LinkedIn,13,0,0
+2019-02-11,Social,Twitter,2,0,0
+2019-02-11,Social,Yammer,4,0,0
+2019-02-12,(Other),(not set),31,0,0
+2019-02-12,Direct,(not set),29,0,0
+2019-02-12,Organic Search,(not set),180,0,2
+2019-02-12,Paid Search,(not set),19,0,0
+2019-02-12,Referral,(not set),9,0,2
+2019-02-12,Social,Facebook,22,0,0
+2019-02-12,Social,Instagram,22,0,0
+2019-02-12,Social,Instagram Stories,35,0,0
+2019-02-12,Social,LinkedIn,2,0,0
+2019-02-12,Social,Quora,238,0,0
+2019-02-12,Social,Twitter,219,1,3
+2019-02-12,Social,Yammer,12,0,0
+2019-02-13,(Other),(not set),7,0,0
+2019-02-13,Direct,(not set),28,0,0
+2019-02-13,Organic Search,(not set),21,0,0
+2019-02-13,Paid Search,(not set),3,0,0
+2019-02-13,Referral,(not set),2,0,0
+2019-02-13,Social,Facebook,27,0,0
+2019-02-13,Social,Instagram Stories,5,0,0
+2019-02-13,Social,LinkedIn,1,0,0
+2019-02-13,Social,Quora,117,1,0
+2019-02-13,Social,Twitter,49,0,0
+2019-02-14,(Other),(not set),48,0,0
+2019-02-14,Direct,(not set),15,0,0
+2019-02-14,Organic Search,(not set),7,0,0
+2019-02-14,Paid Search,(not set),3,0,0
+2019-02-14,Referral,(not set),2,0,0
+2019-02-14,Social,Facebook,19,0,0
+2019-02-14,Social,Instagram Stories,158,0,0
+2019-02-14,Social,LinkedIn,1,0,0
+2019-02-14,Social,Yammer,48,0,0
+2019-02-15,(Other),(not set),1,0,0
+2019-02-15,Direct,(not set),7,0,0
+2019-02-15,Organic Search,(not set),20,1,0
+2019-02-15,Paid Search,(not set),23,0,0
+2019-02-15,Referral,(not set),65,0,0
+2019-02-15,Social,Facebook,106,2,1
+2019-02-15,Social,Instagram,2,0,0
+2019-02-15,Social,Instagram Stories,2,0,0
+2019-02-15,Social,LinkedIn,50,0,2
+2019-02-15,Social,Twitter,2,0,0
+2019-02-16,(Other),(not set),114,0,0
+2019-02-16,Direct,(not set),2,0,0
+2019-02-16,Organic Search,(not set),2,0,0
+2019-02-16,Paid Search,(not set),6,0,0
+2019-02-16,Referral,(not set),27,0,0
+2019-02-16,Social,Facebook,48,0,0
+2019-02-16,Social,Instagram Stories,19,0,0
+2019-02-16,Social,LinkedIn,5,0,0
+2019-02-16,Social,Quora,2,0,0
+2019-02-16,Social,Twitter,5,0,0
+2019-02-17,(Other),(not set),98,0,0
+2019-02-17,Direct,(not set),5,0,0
+2019-02-17,Organic Search,(not set),27,0,1
+2019-02-17,Paid Search,(not set),60,0,0
+2019-02-17,Referral,(not set),21,0,0
+2019-02-17,Social,Facebook,2,0,0
+2019-02-17,Social,Instagram Stories,6,0,0
+2019-02-17,Social,LinkedIn,93,0,0
+2019-02-17,Social,Twitter,37,0,0
+2019-02-17,Social,YouTube,77,0,1
+2019-02-18,(Other),(not set),3,0,0
+2019-02-18,Direct,(not set),3,0,0
+2019-02-18,Organic Search,(not set),1,0,0
+2019-02-18,Paid Search,(not set),33,0,0
+2019-02-18,Referral,(not set),13,0,0
+2019-02-18,Social,Facebook,25,0,1
+2019-02-18,Social,Instagram Stories,84,0,0
+2019-02-18,Social,LinkedIn,5,0,0
+2019-02-19,(Other),(not set),34,0,0
+2019-02-19,Direct,(not set),156,0,0
+2019-02-19,Organic Search,(not set),64,0,0
+2019-02-19,Paid Search,(not set),129,1,2
+2019-02-19,Referral,(not set),23,0,1
+2019-02-19,Social,Facebook,1,0,0
+2019-02-19,Social,Instagram Stories,46,0,0
+2019-02-19,Social,LinkedIn,3,0,0
+2019-02-19,Social,Twitter,19,0,0
+2019-02-19,Social,Yammer,14,0,0
+2019-02-20,(Other),(not set),14,0,0
+2019-02-20,Direct,(not set),96,0,0
+2019-02-20,Organic Search,(not set),6,0,0
+2019-02-20,Paid Search,(not set),189,0,1
+2019-02-20,Referral,(not set),6,0,0
+2019-02-20,Social,Facebook,3,0,0
+2019-02-20,Social,Instagram Stories,1,0,0
+2019-02-20,Social,LinkedIn,228,0,0
+2019-02-20,Social,Twitter,6,0,0
+2019-02-21,(Other),(not set),72,0,0
+2019-02-21,Direct,(not set),9,0,0
+2019-02-21,Organic Search,(not set),83,0,1
+2019-02-21,Paid Search,(not set),14,0,0
+2019-02-21,Referral,(not set),3,0,0
+2019-02-21,Social,Facebook,12,0,0
+2019-02-21,Social,Instagram Stories,21,0,0
+2019-02-21,Social,LinkedIn,2,0,0
+2019-02-21,Social,Twitter,49,0,0
+2019-02-22,(Other),(not set),17,0,0
+2019-02-22,Direct,(not set),1,0,0
+2019-02-22,Organic Search,(not set),61,0,0
+2019-02-22,Paid Search,(not set),1,0,0
+2019-02-22,Referral,(not set),17,0,0
+2019-02-22,Social,Facebook,1,0,0
+2019-02-22,Social,Instagram Stories,7,0,0
+2019-02-22,Social,LinkedIn,1,0,0
+2019-02-22,Social,Twitter,11,0,0
+2019-02-23,(Other),(not set),131,3,3
+2019-02-23,Direct,(not set),16,0,0
+2019-02-23,Organic Search,(not set),1,0,0
+2019-02-23,Paid Search,(not set),1,0,0
+2019-02-23,Referral,(not set),1,0,0
+2019-02-23,Social,Facebook,1,0,0
+2019-02-23,Social,Twitter,1,0,0
+2019-02-24,(Other),(not set),10,0,0
+2019-02-24,Direct,(not set),5,0,0
+2019-02-24,Organic Search,(not set),1,0,0
+2019-02-24,Paid Search,(not set),25,0,0
+2019-02-24,Referral,(not set),5,0,0
+2019-02-24,Social,Facebook,19,0,0
+2019-02-24,Social,Twitter,1,0,0
+2019-02-25,(Other),(not set),15,0,0
+2019-02-25,Direct,(not set),1,0,0
+2019-02-25,Organic Search,(not set),3,0,0
+2019-02-25,Paid Search,(not set),173,0,4
+2019-02-25,Referral,(not set),6,0,0
+2019-02-25,Social,Facebook,2,0,0
+2019-02-25,Social,Instagram Stories,188,1,3
+2019-02-25,Social,LinkedIn,14,0,0
+2019-02-25,Social,Twitter,16,0,0
+2019-02-26,(Other),(not set),27,0,0
+2019-02-26,Direct,(not set),192,0,2
+2019-02-26,Organic Search,(not set),18,0,0
+2019-02-26,Paid Search,(not set),8,0,0
+2019-02-26,Referral,(not set),4,0,0
+2019-02-26,Social,Facebook,198,2,0
+2019-02-26,Social,Instagram,60,0,0
+2019-02-26,Social,Instagram Stories,86,0,0
+2019-02-26,Social,LinkedIn,85,2,0
+2019-02-26,Social,Twitter,1,0,0
+2019-02-27,(Other),(not set),55,0,0
+2019-02-27,Direct,(not set),48,0,0
+2019-02-27,Email,(not set),59,0,0
+2019-02-27,Organic Search,(not set),3,0,0
+2019-02-27,Paid Search,(not set),41,0,0
+2019-02-27,Referral,(not set),17,0,0
+2019-02-27,Social,Facebook,90,0,0
+2019-02-27,Social,Instagram Stories,65,0,1
+2019-02-27,Social,LinkedIn,66,0,0
+2019-02-27,Social,Twitter,63,0,0
+2019-02-28,(Other),(not set),81,0,0
+2019-02-28,Direct,(not set),25,0,1
+2019-02-28,Organic Search,(not set),6,0,0
+2019-02-28,Paid Search,(not set),77,0,0
+2019-02-28,Referral,(not set),15,0,0
+2019-02-28,Social,Facebook,83,0,0
+2019-02-28,Social,Instagram,18,0,0
+2019-02-28,Social,Instagram Stories,109,0,0
+2019-02-28,Social,LinkedIn,44,0,0
+2019-02-28,Social,Twitter,21,0,0
+2019-03-01,Direct,(not set),135,0,0
+2019-03-01,Email,(not set),46,0,0
+2019-03-01,Organic Search,(not set),75,0,0
+2019-03-01,Paid Search,(not set),10,0,0
+2019-03-01,Referral,(not set),8,0,0
+2019-03-01,Social,Facebook,1,0,0
+2019-03-01,Social,Instagram Stories,41,0,0
+2019-03-01,Social,LinkedIn,1,0,0
+2019-03-01,Social,Twitter,1,0,0
+2019-03-02,(Other),(not set),1,0,0
+2019-03-02,Direct,(not set),4,0,0
+2019-03-02,Email,(not set),60,0,0
+2019-03-02,Organic Search,(not set),1,0,0
+2019-03-02,Paid Search,(not set),14,0,0
+2019-03-02,Referral,(not set),43,0,0
+2019-03-02,Social,Facebook,9,0,0
+2019-03-02,Social,Instagram,24,0,0
+2019-03-02,Social,Instagram Stories,2,0,0
+2019-03-02,Social,LinkedIn,1,0,0
+2019-03-02,Social,Twitter,11,0,0
+2019-03-03,(Other),(not set),2,0,0
+2019-03-03,Direct,(not set),115,1,0
+2019-03-03,Email,(not set),86,2,0
+2019-03-03,Organic Search,(not set),2,0,0
+2019-03-03,Paid Search,(not set),87,0,0
+2019-03-03,Referral,(not set),18,0,0
+2019-03-03,Social,Facebook,15,0,0
+2019-03-03,Social,Instagram Stories,26,0,0
+2019-03-03,Social,LinkedIn,21,0,0
+2019-03-03,Social,Quora,87,0,3
+2019-03-03,Social,Twitter,21,0,1
+2019-03-04,(Other),(not set),8,0,0
+2019-03-04,Direct,(not set),1,0,0
+2019-03-04,Email,(not set),175,0,0
+2019-03-04,Organic Search,(not set),13,0,0
+2019-03-04,Paid Search,(not set),22,0,1
+2019-03-04,Referral,(not set),7,0,0
+2019-03-04,Social,Facebook,37,0,0
+2019-03-04,Social,Instagram Stories,2,0,0
+2019-03-04,Social,LinkedIn,8,0,0
+2019-03-04,Social,Twitter,99,1,2
+2019-03-05,(Other),(not set),10,0,0
+2019-03-05,Direct,(not set),5,0,0
+2019-03-05,Email,(not set),5,0,0
+2019-03-05,Organic Search,(not set),39,0,0
+2019-03-05,Paid Search,(not set),182,1,0
+2019-03-05,Referral,(not set),32,0,0
+2019-03-05,Social,Facebook,1,0,0
+2019-03-05,Social,Instagram Stories,40,0,1
+2019-03-05,Social,LinkedIn,14,0,0
+2019-03-05,Social,Twitter,83,0,0
+2019-03-06,(Other),(not set),17,0,0
+2019-03-06,Direct,(not set),12,0,0
+2019-03-06,Email,(not set),11,0,0
+2019-03-06,Organic Search,(not set),71,0,0
+2019-03-06,Paid Search,(not set),12,0,0
+2019-03-06,Referral,(not set),64,1,2
+2019-03-06,Social,Facebook,2,0,0
+2019-03-06,Social,Instagram,2,0,0
+2019-03-06,Social,Instagram Stories,1,0,0
+2019-03-06,Social,LinkedIn,3,0,0
+2019-03-06,Social,Twitter,10,0,0
+2019-03-07,(Other),(not set),18,0,0
+2019-03-07,Direct,(not set),13,0,0
+2019-03-07,Email,(not set),10,0,0
+2019-03-07,Organic Search,(not set),67,1,0
+2019-03-07,Paid Search,(not set),74,0,0
+2019-03-07,Referral,(not set),7,0,0
+2019-03-07,Social,Facebook,10,0,0
+2019-03-07,Social,Instagram Stories,13,0,0
+2019-03-07,Social,LinkedIn,96,0,0
+2019-03-07,Social,Twitter,58,0,0
+2019-03-08,Direct,(not set),60,0,0
+2019-03-08,Email,(not set),63,0,0
+2019-03-08,Organic Search,(not set),62,0,0
+2019-03-08,Paid Search,(not set),6,0,0
+2019-03-08,Referral,(not set),190,0,0
+2019-03-08,Social,Facebook,12,0,0
+2019-03-08,Social,Instagram Stories,16,1,0
+2019-03-08,Social,LinkedIn,39,0,0
+2019-03-08,Social,Twitter,66,0,0
+2019-03-09,(Other),(not set),200,0,1
+2019-03-09,Direct,(not set),144,0,1
+2019-03-09,Email,(not set),1,0,0
+2019-03-09,Organic Search,(not set),177,0,0
+2019-03-09,Paid Search,(not set),4,0,0
+2019-03-09,Referral,(not set),6,0,0
+2019-03-09,Social,Facebook,12,0,0
+2019-03-09,Social,Instagram Stories,182,0,2
+2019-03-09,Social,LinkedIn,2,0,0
+2019-03-09,Social,Twitter,163,0,0
+2019-03-10,(Other),(not set),20,0,0
+2019-03-10,Direct,(not set),5,0,0
+2019-03-10,Email,(not set),29,0,0
+2019-03-10,Organic Search,(not set),17,0,0
+2019-03-10,Paid Search,(not set),1,0,0
+2019-03-10,Referral,(not set),91,0,1
+2019-03-10,Social,Facebook,52,0,1
+2019-03-10,Social,Instagram Stories,141,0,1
+2019-03-10,Social,LinkedIn,85,0,2
+2019-03-10,Social,Twitter,87,0,3
+2019-03-11,(Other),(not set),59,0,0
+2019-03-11,Direct,(not set),7,0,0
+2019-03-11,Organic Search,(not set),10,0,0
+2019-03-11,Paid Search,(not set),9,1,0
+2019-03-11,Referral,(not set),42,0,0
+2019-03-11,Social,Facebook,11,0,0
+2019-03-11,Social,Instagram Stories,213,0,3
+2019-03-11,Social,LinkedIn,3,0,0
+2019-03-11,Social,Twitter,1,0,0
+2019-03-12,(Other),(not set),101,0,0
+2019-03-12,Direct,(not set),2,0,0
+2019-03-12,Organic Search,(not set),6,0,0
+2019-03-12,Paid Search,(not set),3,0,0
+2019-03-12,Referral,(not set),43,0,0
+2019-03-12,Social,Facebook,25,0,0
+2019-03-12,Social,LinkedIn,6,0,0
+2019-03-12,Social,Quora,20,0,0
+2019-03-12,Social,Twitter,3,0,0
+2019-03-13,(Other),(not set),35,0,0
+2019-03-13,Direct,(not set),9,0,0
+2019-03-13,Email,(not set),5,0,0
+2019-03-13,Organic Search,(not set),11,0,0
+2019-03-13,Paid Search,(not set),3,0,0
+2019-03-13,Referral,(not set),15,0,0
+2019-03-13,Social,Facebook,2,0,0
+2019-03-13,Social,Instagram,2,0,0
+2019-03-13,Social,LinkedIn,26,0,0
+2019-03-13,Social,Twitter,42,0,1
+2019-03-14,(Other),(not set),3,0,0
+2019-03-14,Direct,(not set),2,0,0
+2019-03-14,Email,(not set),2,0,0
+2019-03-14,Organic Search,(not set),2,0,0
+2019-03-14,Paid Search,(not set),21,0,0
+2019-03-14,Referral,(not set),2,0,0
+2019-03-14,Social,Facebook,5,0,0
+2019-03-14,Social,Instagram,17,0,1
+2019-03-14,Social,LinkedIn,1,0,0
+2019-03-14,Social,Twitter,74,0,0
+2019-03-15,(Other),(not set),16,0,0
+2019-03-15,Direct,(not set),13,0,0
+2019-03-15,Email,(not set),15,0,0
+2019-03-15,Organic Search,(not set),116,0,0
+2019-03-15,Paid Search,(not set),25,0,0
+2019-03-15,Referral,(not set),27,0,1
+2019-03-15,Social,Facebook,3,0,0
+2019-03-15,Social,Instagram,6,0,0
+2019-03-15,Social,LinkedIn,12,0,0
+2019-03-15,Social,Twitter,25,0,0
+2019-03-16,Direct,(not set),45,0,0
+2019-03-16,Email,(not set),2,0,0
+2019-03-16,Organic Search,(not set),16,0,0
+2019-03-16,Paid Search,(not set),7,0,0
+2019-03-16,Referral,(not set),9,0,0
+2019-03-16,Social,Facebook,29,0,0
+2019-03-16,Social,LinkedIn,1,0,0
+2019-03-16,Social,Twitter,160,0,0
+2019-03-17,(Other),(not set),10,0,0
+2019-03-17,Direct,(not set),2,0,0
+2019-03-17,Email,(not set),44,0,0
+2019-03-17,Organic Search,(not set),7,0,0
+2019-03-17,Paid Search,(not set),4,0,0
+2019-03-17,Referral,(not set),13,0,0
+2019-03-17,Social,Facebook,16,0,1
+2019-03-17,Social,LinkedIn,1,0,0
+2019-03-17,Social,Twitter,3,0,0
+2019-03-18,(Other),(not set),10,0,0
+2019-03-18,Direct,(not set),45,0,0
+2019-03-18,Email,(not set),47,0,0
+2019-03-18,Organic Search,(not set),40,0,0
+2019-03-18,Paid Search,(not set),16,0,0
+2019-03-18,Referral,(not set),5,0,0
+2019-03-18,Social,Facebook,100,1,0
+2019-03-18,Social,LinkedIn,25,0,0
+2019-03-18,Social,Twitter,21,0,0
+2019-03-19,(Other),(not set),11,0,0
+2019-03-19,Direct,(not set),22,0,0
+2019-03-19,Email,(not set),2,0,0
+2019-03-19,Organic Search,(not set),2,0,0
+2019-03-19,Paid Search,(not set),17,0,1
+2019-03-19,Referral,(not set),8,0,0
+2019-03-19,Social,Facebook,8,0,0
+2019-03-19,Social,LinkedIn,2,0,0
+2019-03-19,Social,Twitter,70,0,0
+2019-03-20,(Other),(not set),61,1,0
+2019-03-20,Direct,(not set),91,0,2
+2019-03-20,Email,(not set),4,0,0
+2019-03-20,Organic Search,(not set),162,0,0
+2019-03-20,Paid Search,(not set),4,0,0
+2019-03-20,Referral,(not set),94,0,1
+2019-03-20,Social,Facebook,1,0,0
+2019-03-20,Social,LinkedIn,3,0,0
+2019-03-20,Social,Twitter,65,0,0
+2019-03-21,(Other),(not set),101,0,0
+2019-03-21,Direct,(not set),1,0,0
+2019-03-21,Organic Search,(not set),16,0,0
+2019-03-21,Paid Search,(not set),21,0,0
+2019-03-21,Referral,(not set),48,0,1
+2019-03-21,Social,Facebook,96,0,0
+2019-03-21,Social,LinkedIn,175,0,0
+2019-03-21,Social,Twitter,2,0,0
+2019-03-22,(Other),(not set),45,0,0
+2019-03-22,Direct,(not set),11,0,0
+2019-03-22,Email,(not set),5,0,0
+2019-03-22,Organic Search,(not set),33,0,0
+2019-03-22,Paid Search,(not set),13,0,0
+2019-03-22,Referral,(not set),23,0,0
+2019-03-22,Social,Facebook,1,0,0
+2019-03-22,Social,Instagram,10,0,0
+2019-03-22,Social,LinkedIn,3,0,0
+2019-03-22,Social,Quora,66,1,0
+2019-03-22,Social,Twitter,200,0,1
+2019-03-23,(Other),(not set),11,0,0
+2019-03-23,Direct,(not set),42,0,0
+2019-03-23,Email,(not set),4,0,0
+2019-03-23,Organic Search,(not set),75,0,0
+2019-03-23,Paid Search,(not set),19,0,0
+2019-03-23,Referral,(not set),11,0,0
+2019-03-23,Social,Facebook,82,0,0
+2019-03-23,Social,LinkedIn,2,0,0
+2019-03-23,Social,Twitter,80,0,0
+2019-03-24,(Other),(not set),6,0,0
+2019-03-24,Direct,(not set),42,0,0
+2019-03-24,Email,(not set),53,0,0
+2019-03-24,Organic Search,(not set),14,0,0
+2019-03-24,Paid Search,(not set),15,0,0
+2019-03-24,Referral,(not set),118,0,0
+2019-03-24,Social,Facebook,8,0,0
+2019-03-24,Social,LinkedIn,186,0,4
+2019-03-24,Social,Twitter,27,0,0
+2019-03-25,Direct,(not set),15,0,0
+2019-03-25,Email,(not set),65,0,0
+2019-03-25,Organic Search,(not set),95,0,2
+2019-03-25,Paid Search,(not set),30,0,0
+2019-03-25,Referral,(not set),2,0,0
+2019-03-25,Social,Facebook,20,0,0
+2019-03-25,Social,LinkedIn,17,0,0
+2019-03-26,(Other),(not set),20,0,0
+2019-03-26,Direct,(not set),2,0,1
+2019-03-26,Organic Search,(not set),111,1,2
+2019-03-26,Paid Search,(not set),12,0,0
+2019-03-26,Referral,(not set),46,0,0
+2019-03-26,Social,Facebook,87,1,0
+2019-03-26,Social,LinkedIn,4,0,0
+2019-03-26,Social,Twitter,18,0,0
+2019-03-27,(Other),(not set),65,0,0
+2019-03-27,Direct,(not set),33,0,0
+2019-03-27,Organic Search,(not set),77,0,0
+2019-03-27,Paid Search,(not set),2,0,0
+2019-03-27,Referral,(not set),22,0,0
+2019-03-27,Social,Facebook,2,0,0
+2019-03-27,Social,LinkedIn,15,0,0
+2019-03-27,Social,Twitter,1,0,0
+2019-03-28,(Other),(not set),1,0,0
+2019-03-28,Direct,(not set),9,0,0
+2019-03-28,Email,(not set),23,0,0
+2019-03-28,Organic Search,(not set),80,0,0
+2019-03-28,Paid Search,(not set),1,0,0
+2019-03-28,Referral,(not set),1,0,0
+2019-03-28,Social,Facebook,25,0,0
+2019-03-28,Social,LinkedIn,1,0,0
+2019-03-28,Social,Twitter,1,0,0
+2019-03-29,(Other),(not set),9,0,0
+2019-03-29,Direct,(not set),28,0,0
+2019-03-29,Email,(not set),17,0,0
+2019-03-29,Organic Search,(not set),16,0,1
+2019-03-29,Paid Search,(not set),1,0,0
+2019-03-29,Referral,(not set),31,0,0
+2019-03-29,Social,Facebook,16,0,0
+2019-03-29,Social,Instagram,185,0,0
+2019-03-29,Social,LinkedIn,5,0,0
+2019-03-29,Social,Twitter,10,0,0
+2019-03-30,(Other),(not set),173,2,0
+2019-03-30,Direct,(not set),34,0,2
+2019-03-30,Organic Search,(not set),100,1,1
+2019-03-30,Paid Search,(not set),72,0,1
+2019-03-30,Referral,(not set),93,1,1
+2019-03-30,Social,Facebook,46,0,1
+2019-03-30,Social,Instagram,17,0,0
+2019-03-30,Social,LinkedIn,1,0,0
+2019-03-30,Social,Twitter,9,0,0
+2019-03-31,(Other),(not set),3,0,0
+2019-03-31,Direct,(not set),3,0,0
+2019-03-31,Email,(not set),7,0,0
+2019-03-31,Organic Search,(not set),8,0,0
+2019-03-31,Paid Search,(not set),14,0,1
+2019-03-31,Referral,(not set),108,0,1
+2019-03-31,Social,Facebook,70,0,0
+2019-03-31,Social,LinkedIn,6,0,0
+2019-03-31,Social,Twitter,223,0,0
+2019-04-01,(Other),(not set),28,0,0
+2019-04-01,Direct,(not set),197,0,0
+2019-04-01,Email,(not set),1,0,0
+2019-04-01,Organic Search,(not set),2,0,0
+2019-04-01,Paid Search,(not set),147,0,0
+2019-04-01,Referral,(not set),247,0,1
+2019-04-01,Social,Facebook,5,0,0
+2019-04-01,Social,LinkedIn,63,0,0
+2019-04-01,Social,Twitter,9,0,0
+2019-04-02,(Other),(not set),1,0,0
+2019-04-02,Direct,(not set),40,1,1
+2019-04-02,Email,(not set),1,0,0
+2019-04-02,Organic Search,(not set),19,0,0
+2019-04-02,Paid Search,(not set),153,0,0
+2019-04-02,Referral,(not set),9,0,0
+2019-04-02,Social,Facebook,23,0,0
+2019-04-02,Social,Instagram,25,0,0
+2019-04-02,Social,LinkedIn,18,0,0
+2019-04-02,Social,Twitter,1,0,0
+2019-04-03,(Other),(not set),6,0,0
+2019-04-03,Direct,(not set),4,0,0
+2019-04-03,Email,(not set),1,0,0
+2019-04-03,Organic Search,(not set),52,0,0
+2019-04-03,Paid Search,(not set),95,1,1
+2019-04-03,Referral,(not set),15,0,0
+2019-04-03,Social,Facebook,27,0,0
+2019-04-03,Social,Instagram,12,0,0
+2019-04-03,Social,LinkedIn,3,0,0
+2019-04-03,Social,Twitter,180,0,2
+2019-04-04,(Other),(not set),200,0,1
+2019-04-04,Direct,(not set),195,0,0
+2019-04-04,Email,(not set),41,0,0
+2019-04-04,Organic Search,(not set),2,0,0
+2019-04-04,Paid Search,(not set),20,0,0
+2019-04-04,Referral,(not set),79,1,2
+2019-04-04,Social,Facebook,57,1,0
+2019-04-04,Social,Instagram,1,0,0
+2019-04-04,Social,LinkedIn,4,0,0
+2019-04-04,Social,Twitter,1,0,0
+2019-04-05,(Other),(not set),72,0,0
+2019-04-05,Direct,(not set),2,0,0
+2019-04-05,Organic Search,(not set),1,0,0
+2019-04-05,Paid Search,(not set),9,0,0
+2019-04-05,Referral,(not set),12,0,0
+2019-04-05,Social,Facebook,3,0,0
+2019-04-05,Social,LinkedIn,76,0,1
+2019-04-05,Social,Twitter,130,0,0
+2019-04-06,(Other),(not set),4,0,0
+2019-04-06,Direct,(not set),41,0,2
+2019-04-06,Organic Search,(not set),12,0,0
+2019-04-06,Paid Search,(not set),6,0,0
+2019-04-06,Referral,(not set),5,0,0
+2019-04-06,Social,Facebook,48,0,1
+2019-04-06,Social,LinkedIn,19,1,0
+2019-04-06,Social,Quora,43,0,0
+2019-04-06,Social,Twitter,5,0,0
+2019-04-07,(Other),(not set),2,0,0
+2019-04-07,Direct,(not set),12,0,0
+2019-04-07,Email,(not set),169,2,0
+2019-04-07,Organic Search,(not set),110,1,1
+2019-04-07,Paid Search,(not set),213,0,0
+2019-04-07,Referral,(not set),41,0,0
+2019-04-07,Social,Facebook,2,0,0
+2019-04-07,Social,LinkedIn,21,0,0
+2019-04-07,Social,Twitter,223,0,0
+2019-04-08,(Other),(not set),1,0,0
+2019-04-08,Direct,(not set),47,0,0
+2019-04-08,Email,(not set),1,0,0
+2019-04-08,Organic Search,(not set),4,0,0
+2019-04-08,Paid Search,(not set),9,0,0
+2019-04-08,Referral,(not set),64,0,0
+2019-04-08,Social,Facebook,5,0,0
+2019-04-08,Social,LinkedIn,17,0,0
+2019-04-08,Social,Twitter,238,0,0
+2019-04-09,(Other),(not set),23,0,0
+2019-04-09,Direct,(not set),16,0,0
+2019-04-09,Email,(not set),17,0,0
+2019-04-09,Organic Search,(not set),34,0,0
+2019-04-09,Paid Search,(not set),3,0,0
+2019-04-09,Referral,(not set),51,0,0
+2019-04-09,Social,Facebook,5,0,0
+2019-04-09,Social,LinkedIn,1,0,0
+2019-04-09,Social,Twitter,1,0,0
+2019-04-10,(Other),(not set),9,0,0
+2019-04-10,Direct,(not set),105,0,0
+2019-04-10,Email,(not set),3,0,0
+2019-04-10,Organic Search,(not set),2,0,0
+2019-04-10,Paid Search,(not set),1,0,0
+2019-04-10,Referral,(not set),26,1,0
+2019-04-10,Social,Facebook,9,0,0
+2019-04-10,Social,Instagram,103,0,0
+2019-04-10,Social,LinkedIn,65,0,0
+2019-04-10,Social,Twitter,13,1,0
+2019-04-11,(Other),(not set),5,0,0
+2019-04-11,Direct,(not set),7,0,0
+2019-04-11,Email,(not set),1,0,0
+2019-04-11,Organic Search,(not set),1,0,0
+2019-04-11,Paid Search,(not set),2,0,0
+2019-04-11,Referral,(not set),7,0,0
+2019-04-11,Social,Facebook,6,0,0
+2019-04-11,Social,LinkedIn,16,0,0
+2019-04-11,Social,Twitter,189,0,0
+2019-04-12,(Other),(not set),3,0,0
+2019-04-12,Direct,(not set),219,1,2
+2019-04-12,Email,(not set),50,0,0
+2019-04-12,Organic Search,(not set),1,0,0
+2019-04-12,Paid Search,(not set),3,0,0
+2019-04-12,Referral,(not set),18,0,0
+2019-04-12,Social,Facebook,12,0,0
+2019-04-12,Social,LinkedIn,14,0,0
+2019-04-12,Social,Quora,102,0,1
+2019-04-12,Social,Twitter,19,0,0
+2019-04-13,Direct,(not set),6,0,0
+2019-04-13,Email,(not set),41,0,0
+2019-04-13,Organic Search,(not set),8,0,0
+2019-04-13,Paid Search,(not set),12,0,0
+2019-04-13,Referral,(not set),1,0,0
+2019-04-13,Social,Facebook,154,0,3
+2019-04-13,Social,LinkedIn,91,0,0
+2019-04-13,Social,Twitter,5,0,0
+2019-04-14,(Other),(not set),152,0,0
+2019-04-14,Direct,(not set),121,0,0
+2019-04-14,Organic Search,(not set),1,0,0
+2019-04-14,Paid Search,(not set),1,0,0
+2019-04-14,Referral,(not set),4,0,0
+2019-04-14,Social,Instagram,2,0,0
+2019-04-14,Social,LinkedIn,80,0,2
+2019-04-14,Social,Twitter,48,0,0
+2019-04-15,(Other),(not set),69,0,0
+2019-04-15,Direct,(not set),115,0,2
+2019-04-15,Email,(not set),32,0,0
+2019-04-15,Organic Search,(not set),3,0,0
+2019-04-15,Paid Search,(not set),6,0,0
+2019-04-15,Referral,(not set),6,0,0
+2019-04-15,Social,Facebook,39,0,0
+2019-04-15,Social,LinkedIn,2,0,0
+2019-04-15,Social,Quora,1,0,0
+2019-04-15,Social,Twitter,20,0,0
+2019-04-16,(Other),(not set),30,0,0
+2019-04-16,Direct,(not set),30,0,0
+2019-04-16,Email,(not set),133,0,0
+2019-04-16,Organic Search,(not set),6,0,0
+2019-04-16,Paid Search,(not set),10,0,0
+2019-04-16,Referral,(not set),3,0,0
+2019-04-16,Social,Facebook,11,0,0
+2019-04-16,Social,LinkedIn,115,1,0
+2019-04-16,Social,Twitter,1,0,0
+2019-04-16,Social,WordPress,6,0,0
+2019-04-17,(Other),(not set),1,0,0
+2019-04-17,Direct,(not set),3,0,0
+2019-04-17,Email,(not set),14,1,1
+2019-04-17,Organic Search,(not set),12,0,0
+2019-04-17,Paid Search,(not set),12,0,0
+2019-04-17,Referral,(not set),18,0,0
+2019-04-17,Social,Facebook,62,0,0
+2019-04-17,Social,Twitter,16,0,0
+2019-04-18,(Other),(not set),1,0,0
+2019-04-18,Direct,(not set),93,0,0
+2019-04-18,Email,(not set),40,0,0
+2019-04-18,Organic Search,(not set),21,0,0
+2019-04-18,Paid Search,(not set),1,0,0
+2019-04-18,Referral,(not set),187,0,0
+2019-04-18,Social,Facebook,46,1,0
+2019-04-18,Social,Twitter,1,0,0
+2019-04-19,(Other),(not set),240,2,1
+2019-04-19,Direct,(not set),139,0,0
+2019-04-19,Email,(not set),1,0,0
+2019-04-19,Organic Search,(not set),2,0,0
+2019-04-19,Paid Search,(not set),169,2,0
+2019-04-19,Referral,(not set),15,0,0
+2019-04-19,Social,Facebook,1,0,0
+2019-04-19,Social,LinkedIn,4,0,0
+2019-04-19,Social,Twitter,14,0,0
+2019-04-20,(Other),(not set),4,0,0
+2019-04-20,Direct,(not set),17,0,0
+2019-04-20,Organic Search,(not set),6,0,0
+2019-04-20,Paid Search,(not set),153,0,2
+2019-04-20,Referral,(not set),1,0,0
+2019-04-20,Social,Facebook,32,0,0
+2019-04-21,Direct,(not set),1,0,0
+2019-04-21,Organic Search,(not set),195,1,2
+2019-04-21,Paid Search,(not set),61,0,0
+2019-04-21,Referral,(not set),12,0,0
+2019-04-21,Social,Facebook,2,0,0
+2019-04-21,Social,LinkedIn,48,0,0
+2019-04-21,Social,Quora,78,0,0
+2019-04-22,(Other),(not set),206,0,0
+2019-04-22,Direct,(not set),14,0,0
+2019-04-22,Organic Search,(not set),2,0,0
+2019-04-22,Paid Search,(not set),216,0,0
+2019-04-22,Referral,(not set),17,0,0
+2019-04-22,Social,Facebook,202,0,0
+2019-04-22,Social,LinkedIn,1,0,0
+2019-04-22,Social,Twitter,5,0,0
+2019-04-23,(Other),(not set),1,0,0
+2019-04-23,Direct,(not set),1,0,0
+2019-04-23,Email,(not set),11,0,0
+2019-04-23,Organic Search,(not set),34,0,0
+2019-04-23,Paid Search,(not set),1,0,0
+2019-04-23,Referral,(not set),104,0,0
+2019-04-23,Social,Facebook,23,0,0
+2019-04-23,Social,Instagram Stories,108,0,0
+2019-04-23,Social,LinkedIn,13,0,0
+2019-04-23,Social,Quora,10,0,0
+2019-04-23,Social,Twitter,1,0,0
+2019-04-24,(Other),(not set),177,0,0
+2019-04-24,Direct,(not set),141,0,0
+2019-04-24,Organic Search,(not set),66,1,0
+2019-04-24,Paid Search,(not set),5,0,0
+2019-04-24,Referral,(not set),20,0,0
+2019-04-24,Social,Facebook,12,0,0
+2019-04-24,Social,LinkedIn,214,1,1
+2019-04-24,Social,Twitter,46,1,0
+2019-04-25,(Other),(not set),14,0,0
+2019-04-25,Direct,(not set),195,0,0
+2019-04-25,Email,(not set),41,0,0
+2019-04-25,Organic Search,(not set),31,0,0
+2019-04-25,Paid Search,(not set),24,0,0
+2019-04-25,Referral,(not set),6,0,0
+2019-04-25,Social,Facebook,2,0,0
+2019-04-25,Social,Instagram Stories,31,0,0
+2019-04-25,Social,LinkedIn,52,0,0
+2019-04-25,Social,Twitter,1,0,0
+2019-04-26,(Other),(not set),63,0,0
+2019-04-26,Direct,(not set),5,0,0
+2019-04-26,Display,(not set),8,0,0
+2019-04-26,Organic Search,(not set),18,0,0
+2019-04-26,Paid Search,(not set),52,0,1
+2019-04-26,Referral,(not set),1,0,0
+2019-04-26,Social,Facebook,53,0,0
+2019-04-26,Social,Instagram,13,0,1
+2019-04-26,Social,Instagram Stories,57,0,0
+2019-04-26,Social,LinkedIn,1,0,0
+2019-04-26,Social,Twitter,132,0,0
+2019-04-27,(Other),(not set),47,0,0
+2019-04-27,Direct,(not set),2,0,0
+2019-04-27,Display,(not set),2,0,0
+2019-04-27,Organic Search,(not set),8,0,0
+2019-04-27,Paid Search,(not set),1,0,0
+2019-04-27,Referral,(not set),7,0,0
+2019-04-27,Social,Facebook,22,0,1
+2019-04-27,Social,Instagram Stories,15,0,0
+2019-04-27,Social,Twitter,1,0,0
+2019-04-28,(Other),(not set),41,1,0
+2019-04-28,Direct,(not set),19,0,0
+2019-04-28,Display,(not set),49,0,1
+2019-04-28,Organic Search,(not set),2,0,0
+2019-04-28,Paid Search,(not set),7,0,0
+2019-04-28,Referral,(not set),20,0,1
+2019-04-28,Social,Facebook,11,0,0
+2019-04-28,Social,Instagram Stories,4,0,0
+2019-04-28,Social,LinkedIn,280,1,2
+2019-04-28,Social,Twitter,213,1,0
+2019-04-29,(Other),(not set),1,0,0
+2019-04-29,Direct,(not set),104,0,1
+2019-04-29,Display,(not set),2,0,0
+2019-04-29,Organic Search,(not set),1,0,0
+2019-04-29,Paid Search,(not set),33,0,0
+2019-04-29,Referral,(not set),1,0,0
+2019-04-29,Social,Facebook,4,0,0
+2019-04-29,Social,Instagram Stories,4,0,0
+2019-04-29,Social,LinkedIn,27,0,0
+2019-04-29,Social,Twitter,2,0,0
+2019-04-30,(Other),(not set),305,2,2
+2019-04-30,Direct,(not set),18,0,1
+2019-04-30,Display,(not set),9,0,0
+2019-04-30,Email,(not set),2,0,0
+2019-04-30,Organic Search,(not set),69,0,0
+2019-04-30,Paid Search,(not set),12,0,0
+2019-04-30,Referral,(not set),3,0,0
+2019-04-30,Social,Facebook,4,0,0
+2019-04-30,Social,Instagram,5,0,0
+2019-04-30,Social,Instagram Stories,10,0,0
+2019-04-30,Social,LinkedIn,1,0,0
+2019-04-30,Social,Twitter,7,0,0
+2019-05-01,(Other),(not set),10,0,0
+2019-05-01,Direct,(not set),11,0,0
+2019-05-01,Organic Search,(not set),4,0,0
+2019-05-01,Paid Search,(not set),1,0,0
+2019-05-01,Referral,(not set),22,0,0
+2019-05-01,Social,Facebook,3,0,0
+2019-05-01,Social,Instagram Stories,157,0,0
+2019-05-01,Social,LinkedIn,39,0,0
+2019-05-01,Social,Twitter,128,1,1
+2019-05-02,(Other),(not set),26,0,0
+2019-05-02,Direct,(not set),15,0,1
+2019-05-02,Organic Search,(not set),219,1,2
+2019-05-02,Paid Search,(not set),83,0,2
+2019-05-02,Referral,(not set),9,0,0
+2019-05-02,Social,Facebook,7,0,0
+2019-05-02,Social,Instagram Stories,47,0,0
+2019-05-02,Social,LinkedIn,3,0,0
+2019-05-02,Social,Quora,1,0,0
+2019-05-02,Social,Twitter,81,1,0
+2019-05-03,(Other),(not set),4,0,0
+2019-05-03,Direct,(not set),24,0,0
+2019-05-03,Organic Search,(not set),2,0,0
+2019-05-03,Paid Search,(not set),177,0,0
+2019-05-03,Referral,(not set),26,0,0
+2019-05-03,Social,Facebook,5,0,0
+2019-05-03,Social,LinkedIn,1,0,0
+2019-05-03,Social,Twitter,2,0,0
+2019-05-04,(Other),(not set),39,0,0
+2019-05-04,Direct,(not set),43,0,0
+2019-05-04,Email,(not set),7,0,0
+2019-05-04,Organic Search,(not set),5,0,0
+2019-05-04,Paid Search,(not set),3,0,0
+2019-05-04,Referral,(not set),2,0,0
+2019-05-04,Social,Facebook,5,0,0
+2019-05-04,Social,Instagram,110,0,0
+2019-05-04,Social,LinkedIn,4,0,0
+2019-05-04,Social,Twitter,3,0,0
+2019-05-05,(Other),(not set),18,0,0
+2019-05-05,Direct,(not set),90,0,1
+2019-05-05,Organic Search,(not set),209,0,0
+2019-05-05,Paid Search,(not set),4,0,0
+2019-05-05,Referral,(not set),60,0,0
+2019-05-05,Social,Facebook,6,0,0
+2019-05-05,Social,Twitter,2,0,0
+2019-05-06,(Other),(not set),60,0,0
+2019-05-06,Direct,(not set),1,0,0
+2019-05-06,Organic Search,(not set),10,0,0
+2019-05-06,Paid Search,(not set),14,0,0
+2019-05-06,Referral,(not set),1,0,0
+2019-05-06,Social,Facebook,1,0,0
+2019-05-06,Social,Instagram,121,0,0
+2019-05-06,Social,LinkedIn,68,0,0
+2019-05-06,Social,Twitter,2,0,0
+2019-05-07,(Other),(not set),1,0,0
+2019-05-07,Direct,(not set),20,0,0
+2019-05-07,Email,(not set),16,0,0
+2019-05-07,Organic Search,(not set),166,0,0
+2019-05-07,Paid Search,(not set),4,0,0
+2019-05-07,Referral,(not set),35,0,0
+2019-05-07,Social,Facebook,14,0,0
+2019-05-07,Social,LinkedIn,76,0,0
+2019-05-07,Social,Twitter,109,0,0
+2019-05-08,(Other),(not set),2,0,0
+2019-05-08,Direct,(not set),110,0,0
+2019-05-08,Email,(not set),7,0,0
+2019-05-08,Organic Search,(not set),25,0,0
+2019-05-08,Paid Search,(not set),12,0,0
+2019-05-08,Referral,(not set),69,0,0
+2019-05-08,Social,Facebook,149,0,1
+2019-05-08,Social,Instagram,7,0,0
+2019-05-08,Social,Instagram Stories,7,0,0
+2019-05-08,Social,LinkedIn,1,0,0
+2019-05-08,Social,Twitter,141,0,0
+2019-05-09,(Other),(not set),4,0,0
+2019-05-09,Direct,(not set),45,0,0
+2019-05-09,Email,(not set),9,0,0
+2019-05-09,Organic Search,(not set),107,0,1
+2019-05-09,Paid Search,(not set),2,0,0
+2019-05-09,Referral,(not set),32,0,0
+2019-05-09,Social,Facebook,13,0,0
+2019-05-09,Social,Instagram,26,1,0
+2019-05-09,Social,LinkedIn,71,0,3
+2019-05-09,Social,Twitter,11,0,0
+2019-05-10,(Other),(not set),37,0,0
+2019-05-10,Direct,(not set),9,0,0
+2019-05-10,Email,(not set),29,0,1
+2019-05-10,Organic Search,(not set),18,0,0
+2019-05-10,Paid Search,(not set),141,0,0
+2019-05-10,Referral,(not set),14,0,0
+2019-05-10,Social,Facebook,8,0,0
+2019-05-10,Social,Instagram Stories,3,0,0
+2019-05-10,Social,LinkedIn,85,0,0
+2019-05-10,Social,Twitter,3,0,0
+2019-05-11,(Other),(not set),1,0,0
+2019-05-11,Direct,(not set),39,0,0
+2019-05-11,Email,(not set),42,0,0
+2019-05-11,Organic Search,(not set),17,0,0
+2019-05-11,Paid Search,(not set),27,0,1
+2019-05-11,Referral,(not set),83,0,1
+2019-05-11,Social,Facebook,2,0,0
+2019-05-11,Social,LinkedIn,25,0,0
+2019-05-11,Social,Twitter,5,0,0
+2019-05-12,(Other),(not set),41,0,3
+2019-05-12,Direct,(not set),30,0,0
+2019-05-12,Organic Search,(not set),1,0,0
+2019-05-12,Paid Search,(not set),80,0,0
+2019-05-12,Referral,(not set),1,0,0
+2019-05-12,Social,Facebook,2,0,0
+2019-05-12,Social,Instagram,18,0,0
+2019-05-12,Social,LinkedIn,19,0,0
+2019-05-12,Social,Quora,69,0,0
+2019-05-12,Social,Twitter,42,0,0
+2019-05-13,(Other),(not set),4,0,0
+2019-05-13,Direct,(not set),143,0,0
+2019-05-13,Organic Search,(not set),1,0,0
+2019-05-13,Paid Search,(not set),88,0,0
+2019-05-13,Referral,(not set),2,0,0
+2019-05-13,Social,Facebook,139,2,0
+2019-05-13,Social,Instagram Stories,148,0,0
+2019-05-13,Social,LinkedIn,10,0,1
+2019-05-13,Social,Twitter,221,1,2
+2019-05-14,(Other),(not set),7,0,0
+2019-05-14,Direct,(not set),2,0,0
+2019-05-14,Organic Search,(not set),6,0,0
+2019-05-14,Paid Search,(not set),48,0,0
+2019-05-14,Referral,(not set),6,0,0
+2019-05-14,Social,Facebook,54,0,0
+2019-05-14,Social,Instagram,21,1,0
+2019-05-14,Social,LinkedIn,44,0,0
+2019-05-14,Social,Quora,8,0,0
+2019-05-14,Social,Twitter,1,0,0
+2019-05-14,Social,WordPress,1,0,0
+2019-05-15,(Other),(not set),7,0,0
+2019-05-15,Direct,(not set),16,0,0
+2019-05-15,Organic Search,(not set),5,0,0
+2019-05-15,Paid Search,(not set),7,0,0
+2019-05-15,Referral,(not set),1,0,0
+2019-05-15,Social,Facebook,9,0,0
+2019-05-15,Social,Instagram,69,0,0
+2019-05-15,Social,Instagram Stories,26,0,0
+2019-05-15,Social,LinkedIn,15,0,0
+2019-05-15,Social,Twitter,32,0,0
+2019-05-16,(Other),(not set),9,0,0
+2019-05-16,Direct,(not set),14,0,0
+2019-05-16,Organic Search,(not set),4,0,0
+2019-05-16,Paid Search,(not set),15,0,0
+2019-05-16,Referral,(not set),13,0,0
+2019-05-16,Social,Facebook,5,0,0
+2019-05-16,Social,Instagram Stories,12,0,0
+2019-05-16,Social,LinkedIn,80,0,0
+2019-05-16,Social,Twitter,21,0,0
+2019-05-17,(Other),(not set),49,0,0
+2019-05-17,Direct,(not set),15,0,0
+2019-05-17,Organic Search,(not set),12,0,0
+2019-05-17,Paid Search,(not set),1,0,0
+2019-05-17,Referral,(not set),65,0,0
+2019-05-17,Social,Facebook,1,0,0
+2019-05-17,Social,Instagram Stories,18,0,0
+2019-05-17,Social,Twitter,193,0,0
+2019-05-18,(Other),(not set),25,0,1
+2019-05-18,Direct,(not set),1,0,0
+2019-05-18,Organic Search,(not set),144,0,1
+2019-05-18,Paid Search,(not set),21,0,0
+2019-05-18,Referral,(not set),60,0,0
+2019-05-18,Social,Facebook,55,1,1
+2019-05-18,Social,Instagram,18,1,0
+2019-05-18,Social,Instagram Stories,1,0,0
+2019-05-18,Social,Twitter,34,0,0
+2019-05-19,(Other),(not set),5,0,0
+2019-05-19,Direct,(not set),8,0,0
+2019-05-19,Organic Search,(not set),2,0,0
+2019-05-19,Paid Search,(not set),24,0,0
+2019-05-19,Referral,(not set),12,0,0
+2019-05-19,Social,Facebook,10,0,0
+2019-05-19,Social,Instagram,34,0,0
+2019-05-19,Social,Instagram Stories,23,0,0
+2019-05-19,Social,LinkedIn,62,0,0
+2019-05-19,Social,Twitter,1,0,0
+2019-05-20,(Other),(not set),1,0,0
+2019-05-20,Direct,(not set),6,0,0
+2019-05-20,Organic Search,(not set),1,0,0
+2019-05-20,Paid Search,(not set),15,0,0
+2019-05-20,Referral,(not set),22,0,0
+2019-05-20,Social,Facebook,114,0,0
+2019-05-20,Social,Instagram Stories,4,0,0
+2019-05-20,Social,LinkedIn,5,0,0
+2019-05-20,Social,Twitter,7,0,0
+2019-05-21,(Other),(not set),87,0,0
+2019-05-21,Direct,(not set),9,0,0
+2019-05-21,Organic Search,(not set),87,1,1
+2019-05-21,Paid Search,(not set),5,0,0
+2019-05-21,Referral,(not set),9,0,0
+2019-05-21,Social,Facebook,71,0,3
+2019-05-21,Social,Instagram,1,0,0
+2019-05-21,Social,LinkedIn,139,2,0
+2019-05-21,Social,Twitter,1,0,0
+2019-05-21,Social,YouTube,18,0,0
+2019-05-22,(Other),(not set),218,0,4
+2019-05-22,Direct,(not set),163,0,0
+2019-05-22,Organic Search,(not set),2,0,0
+2019-05-22,Paid Search,(not set),13,0,1
+2019-05-22,Referral,(not set),52,0,3
+2019-05-22,Social,Facebook,8,0,0
+2019-05-22,Social,Instagram Stories,6,1,0
+2019-05-22,Social,LinkedIn,71,0,1
+2019-05-22,Social,Twitter,13,0,0
+2019-05-23,(Other),(not set),5,0,0
+2019-05-23,Direct,(not set),26,0,0
+2019-05-23,Organic Search,(not set),1,0,0
+2019-05-23,Paid Search,(not set),27,0,0
+2019-05-23,Referral,(not set),212,0,2
+2019-05-23,Social,Facebook,11,0,0
+2019-05-23,Social,Instagram,74,0,1
+2019-05-23,Social,LinkedIn,10,0,0
+2019-05-23,Social,Twitter,35,0,0
+2019-05-23,Social,YouTube,22,0,0
+2019-05-24,(Other),(not set),260,1,0
+2019-05-24,Direct,(not set),55,1,1
+2019-05-24,Organic Search,(not set),70,0,0
+2019-05-24,Paid Search,(not set),9,0,1
+2019-05-24,Referral,(not set),1,0,0
+2019-05-24,Social,Facebook,1,0,0
+2019-05-24,Social,Instagram Stories,5,0,0
+2019-05-24,Social,LinkedIn,32,0,0
+2019-05-24,Social,Twitter,1,0,0
+2019-05-25,(Other),(not set),66,0,2
+2019-05-25,Direct,(not set),17,0,0
+2019-05-25,Organic Search,(not set),1,0,0
+2019-05-25,Paid Search,(not set),22,0,1
+2019-05-25,Referral,(not set),6,0,0
+2019-05-25,Social,Facebook,13,1,0
+2019-05-25,Social,Instagram Stories,19,1,0
+2019-05-25,Social,LinkedIn,18,0,0
+2019-05-25,Social,Twitter,73,0,0
+2019-05-26,(Other),(not set),3,0,0
+2019-05-26,Direct,(not set),5,0,0
+2019-05-26,Display,(not set),141,0,0
+2019-05-26,Organic Search,(not set),23,0,0
+2019-05-26,Paid Search,(not set),65,0,0
+2019-05-26,Referral,(not set),19,0,0
+2019-05-26,Social,Facebook,1,0,0
+2019-05-26,Social,Instagram Stories,1,0,0
+2019-05-26,Social,LinkedIn,74,0,0
+2019-05-26,Social,Twitter,2,0,0
+2019-05-27,(Other),(not set),1,0,0
+2019-05-27,Direct,(not set),24,0,0
+2019-05-27,Organic Search,(not set),19,0,0
+2019-05-27,Paid Search,(not set),7,0,0
+2019-05-27,Referral,(not set),59,0,0
+2019-05-27,Social,Facebook,2,0,0
+2019-05-27,Social,Instagram Stories,13,0,0
+2019-05-27,Social,LinkedIn,13,0,0
+2019-05-27,Social,Twitter,88,0,1
+2019-05-28,(Other),(not set),6,0,0
+2019-05-28,Direct,(not set),3,0,0
+2019-05-28,Email,(not set),10,0,0
+2019-05-28,Organic Search,(not set),3,0,0
+2019-05-28,Paid Search,(not set),24,0,0
+2019-05-28,Referral,(not set),43,0,1
+2019-05-28,Social,Facebook,4,0,0
+2019-05-28,Social,Instagram Stories,103,0,0
+2019-05-28,Social,LinkedIn,38,0,0
+2019-05-28,Social,Twitter,30,0,0
+2019-05-29,(Other),(not set),167,0,3
+2019-05-29,Direct,(not set),3,0,0
+2019-05-29,Email,(not set),53,0,0
+2019-05-29,Organic Search,(not set),7,0,0
+2019-05-29,Paid Search,(not set),30,0,0
+2019-05-29,Referral,(not set),1,0,0
+2019-05-29,Social,Facebook,305,2,2
+2019-05-29,Social,Instagram Stories,9,0,0
+2019-05-29,Social,LinkedIn,4,0,0
+2019-05-29,Social,Twitter,1,0,0
+2019-05-30,(Other),(not set),8,0,0
+2019-05-30,Direct,(not set),3,0,0
+2019-05-30,Email,(not set),53,0,0
+2019-05-30,Organic Search,(not set),4,0,0
+2019-05-30,Paid Search,(not set),2,0,0
+2019-05-30,Referral,(not set),2,0,0
+2019-05-30,Social,Facebook,179,1,0
+2019-05-30,Social,Instagram,1,0,0
+2019-05-30,Social,LinkedIn,65,0,0
+2019-05-30,Social,Twitter,5,0,0
+2019-05-31,(Other),(not set),2,0,0
+2019-05-31,Direct,(not set),20,0,0
+2019-05-31,Email,(not set),39,0,0
+2019-05-31,Organic Search,(not set),21,0,0
+2019-05-31,Paid Search,(not set),3,0,0
+2019-05-31,Referral,(not set),21,0,0
+2019-05-31,Social,Facebook,4,0,0
+2019-05-31,Social,Instagram,5,0,0
+2019-05-31,Social,LinkedIn,19,0,0
+2019-05-31,Social,Twitter,174,1,0
+2019-06-01,(Other),(not set),1,0,0
+2019-06-01,Direct,(not set),5,0,0
+2019-06-01,Organic Search,(not set),171,0,0
+2019-06-01,Paid Search,(not set),15,1,0
+2019-06-01,Referral,(not set),6,0,0
+2019-06-01,Social,Facebook,192,0,2
+2019-06-02,(Other),(not set),8,0,1
+2019-06-02,Direct,(not set),1,0,0
+2019-06-02,Organic Search,(not set),1,0,0
+2019-06-02,Paid Search,(not set),122,1,1
+2019-06-02,Referral,(not set),129,0,1
+2019-06-02,Social,Facebook,1,0,0
+2019-06-02,Social,LinkedIn,25,0,0
+2019-06-02,Social,Twitter,1,0,0
+2019-06-03,(Other),(not set),7,0,0
+2019-06-03,Direct,(not set),18,0,0
+2019-06-03,Email,(not set),2,0,0
+2019-06-03,Organic Search,(not set),10,0,0
+2019-06-03,Paid Search,(not set),7,0,0
+2019-06-03,Referral,(not set),5,0,0
+2019-06-03,Social,Facebook,22,0,1
+2019-06-03,Social,Instagram Stories,240,1,1
+2019-06-03,Social,LinkedIn,23,0,0
+2019-06-03,Social,Twitter,77,0,0
+2019-06-04,(Other),(not set),9,0,0
+2019-06-04,Direct,(not set),27,0,0
+2019-06-04,Email,(not set),18,0,0
+2019-06-04,Organic Search,(not set),31,0,0
+2019-06-04,Paid Search,(not set),14,1,0
+2019-06-04,Referral,(not set),60,0,2
+2019-06-04,Social,Facebook,32,1,3
+2019-06-04,Social,Instagram Stories,21,0,1
+2019-06-04,Social,LinkedIn,4,1,0
+2019-06-04,Social,Twitter,2,0,0
+2019-06-05,(Other),(not set),105,0,0
+2019-06-05,Direct,(not set),6,0,0
+2019-06-05,Email,(not set),11,0,0
+2019-06-05,Organic Search,(not set),178,1,3
+2019-06-05,Paid Search,(not set),14,0,0
+2019-06-05,Referral,(not set),17,0,0
+2019-06-05,Social,Facebook,49,0,0
+2019-06-05,Social,Instagram Stories,2,0,0
+2019-06-05,Social,LinkedIn,176,0,1
+2019-06-05,Social,Twitter,37,0,0
+2019-06-06,(Other),(not set),1,0,0
+2019-06-06,Direct,(not set),25,0,0
+2019-06-06,Email,(not set),59,2,1
+2019-06-06,Organic Search,(not set),186,0,2
+2019-06-06,Paid Search,(not set),48,0,0
+2019-06-06,Referral,(not set),8,0,0
+2019-06-06,Social,Facebook,1,0,0
+2019-06-06,Social,Instagram Stories,1,0,0
+2019-06-06,Social,LinkedIn,16,0,0
+2019-06-06,Social,reddit,12,0,0
+2019-06-06,Social,Twitter,54,0,0
+2019-06-07,(Other),(not set),182,0,1
+2019-06-07,Direct,(not set),12,0,0
+2019-06-07,Email,(not set),12,0,0
+2019-06-07,Organic Search,(not set),22,0,0
+2019-06-07,Paid Search,(not set),12,0,0
+2019-06-07,Referral,(not set),1,0,0
+2019-06-07,Social,Facebook,18,0,0
+2019-06-07,Social,Instagram Stories,106,0,0
+2019-06-07,Social,LinkedIn,1,0,0
+2019-06-07,Social,Twitter,1,0,0
+2019-06-08,(Other),(not set),115,0,2
+2019-06-08,Direct,(not set),44,0,0
+2019-06-08,Email,(not set),2,0,0
+2019-06-08,Organic Search,(not set),1,0,0
+2019-06-08,Paid Search,(not set),2,0,0
+2019-06-08,Referral,(not set),8,0,0
+2019-06-08,Social,Dailymotion,180,0,4
+2019-06-08,Social,Facebook,25,0,0
+2019-06-08,Social,Instagram Stories,16,0,0
+2019-06-08,Social,LinkedIn,29,0,0
+2019-06-08,Social,reddit,17,0,0
+2019-06-08,Social,Twitter,169,2,0
+2019-06-09,(Other),(not set),70,0,0
+2019-06-09,Direct,(not set),30,0,0
+2019-06-09,Email,(not set),68,0,0
+2019-06-09,Organic Search,(not set),176,0,0
+2019-06-09,Paid Search,(not set),49,0,1
+2019-06-09,Referral,(not set),48,0,0
+2019-06-09,Social,Facebook,2,0,0
+2019-06-09,Social,Instagram Stories,8,0,0
+2019-06-09,Social,LinkedIn,48,0,0
+2019-06-09,Social,reddit,4,0,0
+2019-06-09,Social,Twitter,19,0,0
+2019-06-10,(Other),(not set),57,0,0
+2019-06-10,Direct,(not set),31,0,0
+2019-06-10,Display,(not set),32,0,0
+2019-06-10,Email,(not set),1,0,0
+2019-06-10,Organic Search,(not set),6,0,0
+2019-06-10,Paid Search,(not set),7,0,0
+2019-06-10,Referral,(not set),5,0,0
+2019-06-10,Social,Facebook,19,0,0
+2019-06-10,Social,Instagram Stories,67,0,0
+2019-06-10,Social,LinkedIn,4,0,0
+2019-06-10,Social,Quora,4,0,0
+2019-06-10,Social,reddit,46,0,0
+2019-06-10,Social,Twitter,18,0,0
+2019-06-11,(Other),(not set),35,0,0
+2019-06-11,Direct,(not set),3,0,0
+2019-06-11,Email,(not set),5,0,0
+2019-06-11,Organic Search,(not set),5,0,0
+2019-06-11,Paid Search,(not set),20,0,0
+2019-06-11,Referral,(not set),2,0,0
+2019-06-11,Social,Facebook,3,0,0
+2019-06-11,Social,Instagram Stories,12,0,0
+2019-06-11,Social,LinkedIn,14,0,0
+2019-06-11,Social,reddit,198,2,1
+2019-06-11,Social,Twitter,10,0,0
+2019-06-12,(Other),(not set),9,0,0
+2019-06-12,Direct,(not set),59,2,1
+2019-06-12,Email,(not set),5,0,0
+2019-06-12,Organic Search,(not set),6,0,0
+2019-06-12,Paid Search,(not set),232,2,1
+2019-06-12,Referral,(not set),85,2,0
+2019-06-12,Social,Facebook,7,0,0
+2019-06-12,Social,Instagram Stories,5,0,0
+2019-06-12,Social,LinkedIn,46,0,0
+2019-06-12,Social,reddit,33,0,0
+2019-06-12,Social,Twitter,60,0,0
+2019-06-13,(Other),(not set),50,0,2
+2019-06-13,Direct,(not set),32,0,0
+2019-06-13,Email,(not set),30,0,1
+2019-06-13,Organic Search,(not set),103,1,1
+2019-06-13,Paid Search,(not set),1,0,0
+2019-06-13,Referral,(not set),164,0,0
+2019-06-13,Social,Facebook,12,0,0
+2019-06-13,Social,Instagram Stories,52,0,0
+2019-06-13,Social,LinkedIn,21,0,0
+2019-06-13,Social,reddit,38,0,0
+2019-06-13,Social,Twitter,90,0,0
+2019-06-14,(Other),(not set),31,1,0
+2019-06-14,Direct,(not set),2,0,0
+2019-06-14,Email,(not set),190,0,2
+2019-06-14,Organic Search,(not set),14,0,0
+2019-06-14,Paid Search,(not set),1,0,0
+2019-06-14,Referral,(not set),54,0,0
+2019-06-14,Social,Facebook,12,0,0
+2019-06-14,Social,Instagram Stories,7,0,0
+2019-06-14,Social,LinkedIn,280,1,2
+2019-06-14,Social,reddit,18,0,0
+2019-06-14,Social,Twitter,1,0,0
+2019-06-15,(Other),(not set),1,0,0
+2019-06-15,Direct,(not set),69,0,0
+2019-06-15,Email,(not set),164,0,0
+2019-06-15,Organic Search,(not set),180,0,4
+2019-06-15,Paid Search,(not set),25,0,0
+2019-06-15,Referral,(not set),16,0,0
+2019-06-15,Social,Facebook,14,0,0
+2019-06-15,Social,Instagram,2,0,0
+2019-06-15,Social,Instagram Stories,8,0,0
+2019-06-15,Social,LinkedIn,6,0,0
+2019-06-15,Social,reddit,162,0,0
+2019-06-16,(Other),(not set),9,0,0
+2019-06-16,Direct,(not set),5,0,0
+2019-06-16,Email,(not set),4,0,0
+2019-06-16,Organic Search,(not set),39,0,0
+2019-06-16,Paid Search,(not set),1,0,0
+2019-06-16,Referral,(not set),6,0,0
+2019-06-16,Social,Facebook,12,0,0
+2019-06-16,Social,Instagram Stories,68,0,1
+2019-06-16,Social,LinkedIn,18,0,0
+2019-06-17,(Other),(not set),3,0,0
+2019-06-17,Direct,(not set),187,2,0
+2019-06-17,Email,(not set),1,0,0
+2019-06-17,Organic Search,(not set),5,0,1
+2019-06-17,Paid Search,(not set),6,0,0
+2019-06-17,Referral,(not set),72,0,1
+2019-06-17,Social,Facebook,7,0,0
+2019-06-17,Social,Instagram Stories,11,0,0
+2019-06-17,Social,LinkedIn,23,0,1
+2019-06-17,Social,Twitter,184,0,0
+2019-06-18,(Other),(not set),148,0,1
+2019-06-18,Direct,(not set),21,0,0
+2019-06-18,Email,(not set),60,0,0
+2019-06-18,Organic Search,(not set),27,0,0
+2019-06-18,Paid Search,(not set),6,0,0
+2019-06-18,Referral,(not set),57,0,0
+2019-06-18,Social,Facebook,12,0,0
+2019-06-18,Social,LinkedIn,9,0,0
+2019-06-18,Social,reddit,76,0,0
+2019-06-18,Social,Twitter,205,2,2
+2019-06-19,(Other),(not set),9,0,0
+2019-06-19,Direct,(not set),3,0,0
+2019-06-19,Display,(not set),2,0,0
+2019-06-19,Email,(not set),12,0,0
+2019-06-19,Organic Search,(not set),2,0,0
+2019-06-19,Paid Search,(not set),1,0,0
+2019-06-19,Referral,(not set),1,0,0
+2019-06-19,Social,Facebook,1,0,0
+2019-06-19,Social,LinkedIn,69,0,0
+2019-06-19,Social,Twitter,4,0,0
+2019-06-19,Social,WordPress,1,0,0
+2019-06-20,(Other),(not set),16,0,1
+2019-06-20,Direct,(not set),121,0,0
+2019-06-20,Email,(not set),54,0,0
+2019-06-20,Organic Search,(not set),2,0,0
+2019-06-20,Paid Search,(not set),10,0,0
+2019-06-20,Referral,(not set),5,0,0
+2019-06-20,Social,Facebook,10,0,0
+2019-06-20,Social,Instagram Stories,5,0,0
+2019-06-20,Social,LinkedIn,6,0,0
+2019-06-20,Social,Twitter,3,0,0
+2019-06-21,(Other),(not set),9,0,0
+2019-06-21,Direct,(not set),158,0,0
+2019-06-21,Email,(not set),130,0,0
+2019-06-21,Organic Search,(not set),10,0,0
+2019-06-21,Paid Search,(not set),78,0,0
+2019-06-21,Referral,(not set),1,0,0
+2019-06-21,Social,Facebook,6,0,0
+2019-06-21,Social,Instagram Stories,68,2,2
+2019-06-21,Social,LinkedIn,1,0,0
+2019-06-21,Social,Quora,41,0,0
+2019-06-21,Social,Twitter,114,0,0
+2019-06-22,(Other),(not set),14,1,1
+2019-06-22,Direct,(not set),189,0,1
+2019-06-22,Email,(not set),3,0,0
+2019-06-22,Organic Search,(not set),4,0,0
+2019-06-22,Paid Search,(not set),1,0,0
+2019-06-22,Referral,(not set),3,0,0
+2019-06-22,Social,Facebook,2,0,0
+2019-06-22,Social,Instagram Stories,53,0,0
+2019-06-22,Social,LinkedIn,183,1,0
+2019-06-22,Social,Twitter,35,0,0
+2019-06-23,(Other),(not set),89,0,0
+2019-06-23,Direct,(not set),212,0,2
+2019-06-23,Email,(not set),7,0,0
+2019-06-23,Organic Search,(not set),37,0,0
+2019-06-23,Paid Search,(not set),15,0,0
+2019-06-23,Referral,(not set),1,0,0
+2019-06-23,Social,Facebook,154,0,3
+2019-06-23,Social,Instagram Stories,146,3,2
+2019-06-23,Social,LinkedIn,38,0,0
+2019-06-23,Social,reddit,58,0,0
+2019-06-23,Social,Twitter,21,0,0
+2019-06-24,(Other),(not set),30,0,0
+2019-06-24,Direct,(not set),1,0,0
+2019-06-24,Email,(not set),3,0,0
+2019-06-24,Organic Search,(not set),190,1,1
+2019-06-24,Paid Search,(not set),12,0,0
+2019-06-24,Referral,(not set),2,0,0
+2019-06-24,Social,Facebook,29,0,0
+2019-06-24,Social,Instagram,1,0,0
+2019-06-24,Social,Instagram Stories,19,0,0
+2019-06-24,Social,LinkedIn,1,0,0
+2019-06-24,Social,Twitter,16,0,0
+2019-06-25,(Other),(not set),19,0,0
+2019-06-25,Direct,(not set),12,0,0
+2019-06-25,Email,(not set),4,0,0
+2019-06-25,Organic Search,(not set),1,0,0
+2019-06-25,Paid Search,(not set),3,0,0
+2019-06-25,Referral,(not set),2,0,0
+2019-06-25,Social,Facebook,2,0,0
+2019-06-25,Social,Instagram,20,0,0
+2019-06-25,Social,Instagram Stories,13,0,0
+2019-06-25,Social,LinkedIn,36,0,0
+2019-06-25,Social,Twitter,2,0,0
+2019-06-26,(Other),(not set),29,0,0
+2019-06-26,Direct,(not set),112,1,0
+2019-06-26,Email,(not set),5,0,0
+2019-06-26,Organic Search,(not set),133,0,0
+2019-06-26,Paid Search,(not set),7,0,0
+2019-06-26,Referral,(not set),60,1,0
+2019-06-26,Social,Facebook,14,0,0
+2019-06-26,Social,Instagram,35,0,1
+2019-06-26,Social,Instagram Stories,2,0,0
+2019-06-26,Social,LinkedIn,80,1,1
+2019-06-26,Social,Twitter,58,0,0
+2019-06-27,(Other),(not set),17,0,0
+2019-06-27,Direct,(not set),1,0,0
+2019-06-27,Email,(not set),1,0,0
+2019-06-27,Organic Search,(not set),1,0,0
+2019-06-27,Paid Search,(not set),9,0,0
+2019-06-27,Referral,(not set),80,0,2
+2019-06-27,Social,Facebook,61,1,0
+2019-06-27,Social,Instagram,1,0,0
+2019-06-27,Social,Instagram Stories,2,0,0
+2019-06-27,Social,LinkedIn,113,0,0
+2019-06-27,Social,Twitter,181,0,0
+2019-06-28,(Other),(not set),21,0,0
+2019-06-28,Direct,(not set),33,0,0
+2019-06-28,Organic Search,(not set),119,0,4
+2019-06-28,Paid Search,(not set),1,0,0
+2019-06-28,Referral,(not set),26,0,1
+2019-06-28,Social,Facebook,25,0,0
+2019-06-28,Social,Instagram Stories,153,0,0
+2019-06-28,Social,LinkedIn,82,0,0
+2019-06-28,Social,reddit,90,0,1
+2019-06-28,Social,Twitter,44,0,0
+2019-06-29,(Other),(not set),87,0,3
+2019-06-29,Direct,(not set),50,0,0
+2019-06-29,Email,(not set),64,0,0
+2019-06-29,Organic Search,(not set),38,0,0
+2019-06-29,Paid Search,(not set),51,1,1
+2019-06-29,Referral,(not set),23,0,0
+2019-06-29,Social,Facebook,2,0,0
+2019-06-29,Social,Instagram Stories,6,0,0
+2019-06-29,Social,LinkedIn,11,0,0
+2019-06-29,Social,Quora,4,0,0
+2019-06-29,Social,Twitter,186,0,0
+2019-06-30,(Other),(not set),13,0,0
+2019-06-30,Direct,(not set),2,0,0
+2019-06-30,Email,(not set),3,0,0
+2019-06-30,Organic Search,(not set),189,0,0
+2019-06-30,Paid Search,(not set),2,0,0
+2019-06-30,Referral,(not set),1,0,0
+2019-06-30,Social,Facebook,2,0,0
+2019-06-30,Social,Instagram,7,0,0
+2019-06-30,Social,Instagram Stories,2,0,0
+2019-06-30,Social,LinkedIn,240,1,1
+2019-06-30,Social,Twitter,190,0,0
+2019-07-01,(Other),(not set),69,0,0
+2019-07-01,Direct,(not set),2,0,0
+2019-07-01,Email,(not set),3,0,0
+2019-07-01,Organic Search,(not set),53,0,0
+2019-07-01,Paid Search,(not set),147,2,0
+2019-07-01,Referral,(not set),96,0,1
+2019-07-01,Social,Facebook,18,0,0
+2019-07-01,Social,Instagram Stories,17,0,0
+2019-07-01,Social,LinkedIn,70,0,1
+2019-07-01,Social,Twitter,60,0,1
+2019-07-02,(Other),(not set),1,0,0
+2019-07-02,Direct,(not set),5,0,0
+2019-07-02,Email,(not set),113,0,1
+2019-07-02,Organic Search,(not set),3,0,0
+2019-07-02,Paid Search,(not set),2,0,0
+2019-07-02,Referral,(not set),7,0,0
+2019-07-02,Social,Facebook,4,0,0
+2019-07-02,Social,Instagram,200,0,1
+2019-07-02,Social,Instagram Stories,22,0,0
+2019-07-02,Social,LinkedIn,116,0,0
+2019-07-02,Social,Twitter,3,0,0
+2019-07-03,(Other),(not set),39,0,0
+2019-07-03,Direct,(not set),1,0,0
+2019-07-03,Email,(not set),3,0,0
+2019-07-03,Organic Search,(not set),10,0,0
+2019-07-03,Paid Search,(not set),66,0,0
+2019-07-03,Referral,(not set),12,0,0
+2019-07-03,Social,Facebook,58,0,0
+2019-07-03,Social,Instagram Stories,2,0,0
+2019-07-03,Social,LinkedIn,1,0,0
+2019-07-03,Social,Twitter,1,0,0
+2019-07-04,(Other),(not set),1,1,0
+2019-07-04,Direct,(not set),5,0,0
+2019-07-04,Email,(not set),152,0,0
+2019-07-04,Organic Search,(not set),27,0,0
+2019-07-04,Paid Search,(not set),2,0,0
+2019-07-04,Referral,(not set),1,0,0
+2019-07-04,Social,Facebook,87,0,0
+2019-07-04,Social,Instagram,48,0,0
+2019-07-04,Social,Instagram Stories,2,0,0
+2019-07-04,Social,LinkedIn,1,0,0
+2019-07-04,Social,Twitter,113,0,2
+2019-07-05,(Other),(not set),7,0,0
+2019-07-05,Direct,(not set),9,0,0
+2019-07-05,Email,(not set),34,0,0
+2019-07-05,Organic Search,(not set),89,0,0
+2019-07-05,Paid Search,(not set),39,0,0
+2019-07-05,Referral,(not set),12,0,0
+2019-07-05,Social,Facebook,33,0,0
+2019-07-05,Social,Instagram Stories,79,0,0
+2019-07-05,Social,LinkedIn,4,0,0
+2019-07-05,Social,Twitter,61,0,0
+2019-07-06,(Other),(not set),7,0,0
+2019-07-06,Direct,(not set),4,0,0
+2019-07-06,Organic Search,(not set),9,0,0
+2019-07-06,Paid Search,(not set),67,1,0
+2019-07-06,Referral,(not set),1,0,0
+2019-07-06,Social,Facebook,7,0,0
+2019-07-06,Social,Instagram,8,0,0
+2019-07-06,Social,Instagram Stories,1,0,0
+2019-07-06,Social,LinkedIn,4,0,0
+2019-07-06,Social,Twitter,5,0,0
+2019-07-07,(Other),(not set),1,0,0
+2019-07-07,Direct,(not set),1,0,0
+2019-07-07,Email,(not set),96,0,0
+2019-07-07,Organic Search,(not set),98,1,0
+2019-07-07,Paid Search,(not set),83,0,0
+2019-07-07,Referral,(not set),87,2,1
+2019-07-07,Social,Facebook,115,1,0
+2019-07-07,Social,Instagram,68,0,0
+2019-07-07,Social,Instagram Stories,152,0,0
+2019-07-07,Social,LinkedIn,63,0,0
+2019-07-07,Social,reddit,125,1,1
+2019-07-08,(Other),(not set),1,0,0
+2019-07-08,Direct,(not set),1,0,0
+2019-07-08,Email,(not set),102,0,0
+2019-07-08,Organic Search,(not set),40,0,0
+2019-07-08,Paid Search,(not set),30,0,0
+2019-07-08,Referral,(not set),229,0,3
+2019-07-08,Social,Facebook,8,0,0
+2019-07-08,Social,Instagram Stories,108,0,0
+2019-07-08,Social,LinkedIn,1,0,0
+2019-07-08,Social,Twitter,18,0,0
+2019-07-09,(Other),(not set),5,0,0
+2019-07-09,Direct,(not set),8,0,0
+2019-07-09,Email,(not set),1,0,0
+2019-07-09,Organic Search,(not set),18,0,0
+2019-07-09,Paid Search,(not set),30,0,0
+2019-07-09,Referral,(not set),1,0,0
+2019-07-09,Social,Facebook,18,0,0
+2019-07-09,Social,Instagram Stories,97,0,1
+2019-07-09,Social,LinkedIn,184,2,0
+2019-07-09,Social,Twitter,119,0,1
+2019-07-10,(Other),(not set),20,0,0
+2019-07-10,Direct,(not set),7,0,0
+2019-07-10,Email,(not set),7,0,0
+2019-07-10,Organic Search,(not set),52,0,1
+2019-07-10,Paid Search,(not set),5,0,0
+2019-07-10,Referral,(not set),13,0,0
+2019-07-10,Social,Facebook,31,0,0
+2019-07-10,Social,Instagram Stories,1,0,0
+2019-07-10,Social,LinkedIn,2,0,0
+2019-07-10,Social,Twitter,53,0,1
+2019-07-11,(Other),(not set),20,0,0
+2019-07-11,Direct,(not set),1,0,0
+2019-07-11,Display,(not set),17,0,0
+2019-07-11,Email,(not set),5,0,0
+2019-07-11,Organic Search,(not set),280,1,2
+2019-07-11,Paid Search,(not set),147,0,1
+2019-07-11,Referral,(not set),67,1,0
+2019-07-11,Social,Facebook,6,0,0
+2019-07-11,Social,Instagram Stories,5,0,0
+2019-07-11,Social,LinkedIn,1,0,0
+2019-07-11,Social,Twitter,12,0,0
+2019-07-12,(Other),(not set),1,0,0
+2019-07-12,Direct,(not set),106,0,0
+2019-07-12,Email,(not set),19,0,0
+2019-07-12,Organic Search,(not set),1,0,0
+2019-07-12,Paid Search,(not set),12,0,0
+2019-07-12,Referral,(not set),182,0,2
+2019-07-12,Social,Facebook,26,0,0
+2019-07-12,Social,Instagram,6,0,0
+2019-07-12,Social,Instagram Stories,249,1,4
+2019-07-12,Social,LinkedIn,7,0,0
+2019-07-12,Social,Quora,186,0,0
+2019-07-12,Social,Twitter,173,2,0
+2019-07-13,(Other),(not set),152,0,0
+2019-07-13,Direct,(not set),88,0,0
+2019-07-13,Display,(not set),2,0,0
+2019-07-13,Email,(not set),5,0,0
+2019-07-13,Organic Search,(not set),4,0,0
+2019-07-13,Paid Search,(not set),1,0,0
+2019-07-13,Referral,(not set),22,0,1
+2019-07-13,Social,Facebook,7,0,0
+2019-07-13,Social,Instagram Stories,5,0,0
+2019-07-13,Social,LinkedIn,18,0,0
+2019-07-13,Social,reddit,24,0,0
+2019-07-13,Social,Twitter,19,0,0
+2019-07-14,(Other),(not set),16,0,0
+2019-07-14,Direct,(not set),12,0,0
+2019-07-14,Email,(not set),25,0,1
+2019-07-14,Organic Search,(not set),2,0,0
+2019-07-14,Paid Search,(not set),36,0,0
+2019-07-14,Referral,(not set),5,0,0
+2019-07-14,Social,Facebook,6,0,0
+2019-07-14,Social,Instagram Stories,67,0,0
+2019-07-14,Social,LinkedIn,207,1,0
+2019-07-14,Social,reddit,13,0,1
+2019-07-14,Social,Twitter,27,0,0
+2019-07-15,(Other),(not set),9,0,0
+2019-07-15,Direct,(not set),15,0,0
+2019-07-15,Email,(not set),1,0,0
+2019-07-15,Organic Search,(not set),21,0,0
+2019-07-15,Paid Search,(not set),98,0,0
+2019-07-15,Referral,(not set),39,0,0
+2019-07-15,Social,Facebook,2,0,0
+2019-07-15,Social,Instagram Stories,81,0,0
+2019-07-15,Social,LinkedIn,11,0,0
+2019-07-15,Social,Twitter,1,0,0
+2019-07-16,(Other),(not set),1,0,0
+2019-07-16,Direct,(not set),1,0,0
+2019-07-16,Display,(not set),51,1,1
+2019-07-16,Email,(not set),52,0,0
+2019-07-16,Organic Search,(not set),19,0,0
+2019-07-16,Paid Search,(not set),1,0,0
+2019-07-16,Referral,(not set),14,0,0
+2019-07-16,Social,Facebook,6,0,0
+2019-07-16,Social,Instagram,4,0,0
+2019-07-16,Social,LinkedIn,23,0,0
+2019-07-16,Social,Twitter,87,1,0
+2019-07-17,(Other),(not set),103,0,0
+2019-07-17,Direct,(not set),2,0,0
+2019-07-17,Display,(not set),1,0,0
+2019-07-17,Email,(not set),12,0,0
+2019-07-17,Organic Search,(not set),6,0,0
+2019-07-17,Paid Search,(not set),27,0,0
+2019-07-17,Referral,(not set),7,1,0
+2019-07-17,Social,Facebook,12,0,0
+2019-07-17,Social,Instagram Stories,2,0,0
+2019-07-17,Social,LinkedIn,8,0,0
+2019-07-17,Social,Twitter,3,0,0
+2019-07-18,(Other),(not set),1,0,0
+2019-07-18,Direct,(not set),35,0,0
+2019-07-18,Display,(not set),1,0,0
+2019-07-18,Email,(not set),2,0,0
+2019-07-18,Organic Search,(not set),4,0,0
+2019-07-18,Paid Search,(not set),38,0,1
+2019-07-18,Referral,(not set),1,0,0
+2019-07-18,Social,Facebook,3,0,0
+2019-07-18,Social,Instagram Stories,5,0,0
+2019-07-18,Social,LinkedIn,19,0,0
+2019-07-18,Social,Twitter,8,0,0
+2019-07-19,(Other),(not set),9,0,0
+2019-07-19,Direct,(not set),17,0,0
+2019-07-19,Email,(not set),2,0,0
+2019-07-19,Organic Search,(not set),15,0,0
+2019-07-19,Paid Search,(not set),17,0,0
+2019-07-19,Referral,(not set),80,0,0
+2019-07-19,Social,Facebook,99,0,0
+2019-07-19,Social,Instagram Stories,1,0,0
+2019-07-19,Social,LinkedIn,30,0,0
+2019-07-19,Social,Quora,247,0,0
+2019-07-19,Social,Twitter,8,0,0
+2019-07-20,(Other),(not set),12,0,0
+2019-07-20,Direct,(not set),6,1,0
+2019-07-20,Organic Search,(not set),1,0,0
+2019-07-20,Paid Search,(not set),2,0,0
+2019-07-20,Referral,(not set),31,0,0
+2019-07-20,Social,Facebook,35,0,0
+2019-07-20,Social,Instagram Stories,15,0,0
+2019-07-20,Social,LinkedIn,2,0,0
+2019-07-20,Social,Twitter,54,1,0
+2019-07-21,(Other),(not set),16,0,0
+2019-07-21,Direct,(not set),8,0,0
+2019-07-21,Email,(not set),91,2,1
+2019-07-21,Organic Search,(not set),15,0,0
+2019-07-21,Paid Search,(not set),260,1,0
+2019-07-21,Referral,(not set),1,0,0
+2019-07-21,Social,Facebook,5,0,0
+2019-07-21,Social,Instagram Stories,15,0,1
+2019-07-21,Social,LinkedIn,12,0,0
+2019-07-21,Social,Twitter,6,0,0
+2019-07-22,(Other),(not set),1,0,0
+2019-07-22,Direct,(not set),3,0,0
+2019-07-22,Email,(not set),1,0,0
+2019-07-22,Organic Search,(not set),41,0,3
+2019-07-22,Paid Search,(not set),5,0,0
+2019-07-22,Referral,(not set),2,0,0
+2019-07-22,Social,Facebook,102,0,0
+2019-07-22,Social,Instagram,122,1,1
+2019-07-22,Social,Instagram Stories,29,0,0
+2019-07-22,Social,LinkedIn,52,0,0
+2019-07-22,Social,Twitter,57,4,0
+2019-07-23,(Other),(not set),57,2,0
+2019-07-23,Direct,(not set),68,2,2
+2019-07-23,Organic Search,(not set),2,0,0
+2019-07-23,Paid Search,(not set),3,0,0
+2019-07-23,Referral,(not set),199,0,0
+2019-07-23,Social,Facebook,57,0,0
+2019-07-23,Social,Instagram,5,0,0
+2019-07-23,Social,Instagram Stories,38,0,0
+2019-07-23,Social,LinkedIn,247,0,0
+2019-07-23,Social,Twitter,187,4,0
+2019-07-24,(Other),(not set),80,1,1
+2019-07-24,Direct,(not set),2,0,0
+2019-07-24,Email,(not set),40,0,0
+2019-07-24,Organic Search,(not set),51,0,0
+2019-07-24,Paid Search,(not set),22,1,0
+2019-07-24,Referral,(not set),17,0,0
+2019-07-24,Social,Facebook,10,0,0
+2019-07-24,Social,Instagram,24,0,0
+2019-07-24,Social,LinkedIn,174,0,1
+2019-07-24,Social,Twitter,3,0,0
+2019-07-25,Direct,(not set),34,0,0
+2019-07-25,Email,(not set),1,0,0
+2019-07-25,Organic Search,(not set),20,0,0
+2019-07-25,Paid Search,(not set),14,0,0
+2019-07-25,Referral,(not set),2,0,0
+2019-07-25,Social,Facebook,43,0,0
+2019-07-25,Social,LinkedIn,76,0,0
+2019-07-25,Social,Twitter,24,0,0
+2019-07-25,Social,YouTube,74,0,0
+2019-07-26,Direct,(not set),112,0,1
+2019-07-26,Email,(not set),15,0,0
+2019-07-26,Organic Search,(not set),21,0,0
+2019-07-26,Paid Search,(not set),2,0,0
+2019-07-26,Referral,(not set),40,0,0
+2019-07-26,Social,Facebook,4,0,0
+2019-07-26,Social,LinkedIn,12,0,0
+2019-07-26,Social,Twitter,1,0,0
+2019-07-26,Social,YouTube,20,0,0
+2019-07-27,(Other),(not set),17,0,0
+2019-07-27,Direct,(not set),44,0,0
+2019-07-27,Email,(not set),154,0,3
+2019-07-27,Organic Search,(not set),2,0,0
+2019-07-27,Paid Search,(not set),10,0,0
+2019-07-27,Referral,(not set),116,0,4
+2019-07-27,Social,Facebook,13,0,0
+2019-07-27,Social,LinkedIn,2,0,0
+2019-07-27,Social,Twitter,2,0,0
+2019-07-27,Social,YouTube,7,0,0
+2019-07-28,Direct,(not set),190,0,0
+2019-07-28,Display,(not set),34,0,0
+2019-07-28,Email,(not set),7,0,0
+2019-07-28,Organic Search,(not set),96,0,0
+2019-07-28,Paid Search,(not set),20,0,0
+2019-07-28,Referral,(not set),59,0,0
+2019-07-28,Social,Facebook,6,0,0
+2019-07-28,Social,LinkedIn,168,0,1
+2019-07-28,Social,Twitter,1,0,0
+2019-07-28,Social,YouTube,10,0,0
+2019-07-29,(Other),(not set),1,0,0
+2019-07-29,Direct,(not set),25,0,1
+2019-07-29,Display,(not set),7,0,0
+2019-07-29,Organic Search,(not set),19,0,0
+2019-07-29,Paid Search,(not set),12,0,0
+2019-07-29,Referral,(not set),86,0,0
+2019-07-29,Social,Facebook,2,0,0
+2019-07-29,Social,LinkedIn,183,0,0
+2019-07-29,Social,Twitter,87,0,0
+2019-07-29,Social,YouTube,52,0,0
+2019-07-30,Direct,(not set),62,0,0
+2019-07-30,Display,(not set),34,0,0
+2019-07-30,Email,(not set),13,0,0
+2019-07-30,Organic Search,(not set),68,0,0
+2019-07-30,Paid Search,(not set),2,0,0
+2019-07-30,Referral,(not set),4,1,0
+2019-07-30,Social,Facebook,23,0,0
+2019-07-30,Social,Instagram,52,0,0
+2019-07-30,Social,LinkedIn,39,0,1
+2019-07-30,Social,reddit,46,0,0
+2019-07-30,Social,Twitter,1,0,0
+2019-07-31,Direct,(not set),8,0,0
+2019-07-31,Display,(not set),174,0,1
+2019-07-31,Email,(not set),6,0,0
+2019-07-31,Organic Search,(not set),186,0,0
+2019-07-31,Paid Search,(not set),28,0,0
+2019-07-31,Referral,(not set),66,0,0
+2019-07-31,Social,Facebook,8,0,0
+2019-07-31,Social,LinkedIn,132,1,2
+2019-07-31,Social,reddit,164,0,0
+2019-07-31,Social,Twitter,139,2,0
+2019-08-01,(Other),(not set),9,0,2
+2019-08-01,Direct,(not set),177,0,0
+2019-08-01,Display,(not set),2,0,0
+2019-08-01,Organic Search,(not set),2,0,0
+2019-08-01,Paid Search,(not set),1,0,0
+2019-08-01,Referral,(not set),1,0,0
+2019-08-01,Social,Facebook,1,0,0
+2019-08-01,Social,Instagram Stories,1,0,0
+2019-08-01,Social,LinkedIn,107,0,1
+2019-08-01,Social,Twitter,9,0,0
+2019-08-02,Direct,(not set),5,0,0
+2019-08-02,Display,(not set),4,0,0
+2019-08-02,Organic Search,(not set),3,0,0
+2019-08-02,Paid Search,(not set),2,0,0
+2019-08-02,Referral,(not set),5,0,0
+2019-08-02,Social,Facebook,35,0,0
+2019-08-02,Social,Instagram,4,0,0
+2019-08-02,Social,Instagram Stories,12,0,0
+2019-08-02,Social,LinkedIn,15,0,0
+2019-08-02,Social,Twitter,13,0,0
+2019-08-02,Social,YouTube,13,0,0
+2019-08-03,Direct,(not set),1,0,0
+2019-08-03,Display,(not set),1,0,0
+2019-08-03,Organic Search,(not set),21,0,0
+2019-08-03,Paid Search,(not set),1,0,0
+2019-08-03,Referral,(not set),11,0,0
+2019-08-03,Social,Facebook,8,0,0
+2019-08-03,Social,Instagram Stories,2,0,0
+2019-08-03,Social,LinkedIn,33,0,0
+2019-08-03,Social,Twitter,2,0,0
+2019-08-04,(Other),(not set),30,0,0
+2019-08-04,Direct,(not set),15,0,0
+2019-08-04,Display,(not set),4,0,0
+2019-08-04,Email,(not set),73,0,0
+2019-08-04,Organic Search,(not set),3,0,0
+2019-08-04,Paid Search,(not set),3,0,0
+2019-08-04,Referral,(not set),5,0,0
+2019-08-04,Social,Facebook,12,0,0
+2019-08-04,Social,Instagram Stories,171,0,0
+2019-08-04,Social,LinkedIn,12,0,0
+2019-08-04,Social,Quora,10,0,0
+2019-08-04,Social,Twitter,94,0,0
+2019-08-05,(Other),(not set),103,0,0
+2019-08-05,Direct,(not set),10,0,1
+2019-08-05,Display,(not set),16,0,0
+2019-08-05,Email,(not set),108,0,1
+2019-08-05,Organic Search,(not set),204,0,1
+2019-08-05,Paid Search,(not set),77,0,0
+2019-08-05,Referral,(not set),18,0,0
+2019-08-05,Social,Facebook,85,0,0
+2019-08-05,Social,Instagram Stories,13,0,0
+2019-08-05,Social,LinkedIn,8,1,0
+2019-08-05,Social,Twitter,38,0,0
+2019-08-05,Social,YouTube,1,0,0
+2019-08-06,(Other),(not set),32,0,0
+2019-08-06,Direct,(not set),139,1,0
+2019-08-06,Display,(not set),49,0,0
+2019-08-06,Organic Search,(not set),5,0,0
+2019-08-06,Paid Search,(not set),12,0,0
+2019-08-06,Referral,(not set),2,0,0
+2019-08-06,Social,Facebook,74,0,0
+2019-08-06,Social,Instagram,14,0,0
+2019-08-06,Social,LinkedIn,2,0,0
+2019-08-06,Social,Twitter,2,0,0
+2019-08-06,Social,WordPress,171,0,0
+2019-08-06,Social,YouTube,13,0,1
+2019-08-07,Direct,(not set),29,0,0
+2019-08-07,Display,(not set),1,0,0
+2019-08-07,Email,(not set),54,0,0
+2019-08-07,Organic Search,(not set),11,0,0
+2019-08-07,Paid Search,(not set),2,0,0
+2019-08-07,Referral,(not set),5,0,0
+2019-08-07,Social,Facebook,1,0,0
+2019-08-07,Social,Glassdoor,1,0,0
+2019-08-07,Social,Instagram,75,0,0
+2019-08-07,Social,Instagram Stories,2,0,0
+2019-08-07,Social,LinkedIn,16,0,0
+2019-08-07,Social,Quora,1,0,0
+2019-08-07,Social,Twitter,189,0,1
+2019-08-07,Social,YouTube,127,0,0
+2019-08-08,Direct,(not set),1,0,0
+2019-08-08,Display,(not set),15,0,0
+2019-08-08,Email,(not set),60,0,1
+2019-08-08,Organic Search,(not set),1,0,0
+2019-08-08,Paid Search,(not set),74,1,0
+2019-08-08,Referral,(not set),83,0,0
+2019-08-08,Social,Facebook,4,0,1
+2019-08-08,Social,Glassdoor,1,0,0
+2019-08-08,Social,Instagram,39,0,0
+2019-08-08,Social,Instagram Stories,72,0,0
+2019-08-08,Social,LinkedIn,10,0,0
+2019-08-08,Social,Twitter,3,0,0
+2019-08-09,Direct,(not set),140,2,2
+2019-08-09,Email,(not set),16,0,0
+2019-08-09,Organic Search,(not set),28,1,0
+2019-08-09,Paid Search,(not set),53,0,0
+2019-08-09,Referral,(not set),34,0,0
+2019-08-09,Social,Facebook,27,0,0
+2019-08-09,Social,Instagram,2,0,0
+2019-08-09,Social,Instagram Stories,104,3,0
+2019-08-09,Social,LinkedIn,5,0,0
+2019-08-09,Social,Twitter,4,0,0
+2019-08-09,Social,YouTube,1,0,0
+2019-08-10,Direct,(not set),21,0,0
+2019-08-10,Email,(not set),198,2,0
+2019-08-10,Organic Search,(not set),1,0,0
+2019-08-10,Paid Search,(not set),59,0,0
+2019-08-10,Referral,(not set),40,0,0
+2019-08-10,Social,Facebook,8,0,0
+2019-08-10,Social,Instagram,60,0,0
+2019-08-10,Social,Instagram Stories,24,0,0
+2019-08-10,Social,LinkedIn,27,0,1
+2019-08-10,Social,Twitter,11,0,0
+2019-08-10,Social,YouTube,92,0,0
+2019-08-11,Direct,(not set),6,0,0
+2019-08-11,Organic Search,(not set),109,0,0
+2019-08-11,Paid Search,(not set),70,0,0
+2019-08-11,Referral,(not set),4,0,0
+2019-08-11,Social,Facebook,12,0,0
+2019-08-11,Social,Instagram Stories,5,0,0
+2019-08-11,Social,LinkedIn,3,0,0
+2019-08-11,Social,Twitter,84,0,0
+2019-08-12,Direct,(not set),1,0,0
+2019-08-12,Email,(not set),19,0,0
+2019-08-12,Organic Search,(not set),45,0,0
+2019-08-12,Paid Search,(not set),11,0,0
+2019-08-12,Referral,(not set),12,0,0
+2019-08-12,Social,Facebook,59,0,0
+2019-08-12,Social,Instagram Stories,1,0,0
+2019-08-12,Social,LinkedIn,11,0,0
+2019-08-12,Social,Twitter,19,0,0
+2019-08-12,Social,YouTube,1,0,0
+2019-08-13,(Other),(not set),21,0,0
+2019-08-13,Direct,(not set),2,0,0
+2019-08-13,Email,(not set),90,0,0
+2019-08-13,Organic Search,(not set),2,0,0
+2019-08-13,Paid Search,(not set),2,0,0
+2019-08-13,Referral,(not set),6,0,0
+2019-08-13,Social,Facebook,177,0,4
+2019-08-13,Social,Instagram,168,1,0
+2019-08-13,Social,Instagram Stories,37,0,0
+2019-08-13,Social,LinkedIn,84,0,0
+2019-08-13,Social,Twitter,60,0,0
+2019-08-13,Social,YouTube,43,2,2
+2019-08-14,(Other),(not set),4,0,0
+2019-08-14,Direct,(not set),27,0,0
+2019-08-14,Display,(not set),12,0,0
+2019-08-14,Email,(not set),4,0,0
+2019-08-14,Organic Search,(not set),2,0,0
+2019-08-14,Paid Search,(not set),3,0,0
+2019-08-14,Referral,(not set),6,0,0
+2019-08-14,Social,Facebook,6,0,0
+2019-08-14,Social,Glassdoor,38,0,1
+2019-08-14,Social,Instagram Stories,3,0,0
+2019-08-14,Social,LinkedIn,137,0,1
+2019-08-14,Social,Quora,62,0,0
+2019-08-14,Social,Twitter,13,0,0
+2019-08-14,Social,YouTube,164,0,1
+2019-08-15,Direct,(not set),5,0,0
+2019-08-15,Organic Search,(not set),77,0,1
+2019-08-15,Paid Search,(not set),11,0,0
+2019-08-15,Referral,(not set),96,0,0
+2019-08-15,Social,Facebook,16,0,0
+2019-08-15,Social,Instagram,1,0,0
+2019-08-15,Social,Instagram Stories,92,0,0
+2019-08-15,Social,LinkedIn,31,0,0
+2019-08-15,Social,Quora,4,0,0
+2019-08-15,Social,Twitter,1,0,0
+2019-08-15,Social,YouTube,109,0,0
+2019-08-16,Direct,(not set),5,0,0
+2019-08-16,Organic Search,(not set),196,0,0
+2019-08-16,Paid Search,(not set),168,1,0
+2019-08-16,Referral,(not set),48,0,0
+2019-08-16,Social,Facebook,100,1,2
+2019-08-16,Social,Instagram Stories,4,0,0
+2019-08-16,Social,LinkedIn,1,0,0
+2019-08-16,Social,Quora,44,0,0
+2019-08-16,Social,reddit,10,0,0
+2019-08-16,Social,Twitter,30,0,0
+2019-08-17,Direct,(not set),12,0,0
+2019-08-17,Organic Search,(not set),247,0,1
+2019-08-17,Paid Search,(not set),2,0,0
+2019-08-17,Referral,(not set),182,2,0
+2019-08-17,Social,Facebook,195,1,2
+2019-08-17,Social,Instagram,7,0,0
+2019-08-17,Social,Instagram Stories,19,0,0
+2019-08-17,Social,LinkedIn,4,0,0
+2019-08-17,Social,Twitter,8,0,0
+2019-08-17,Social,YouTube,1,1,0
+2019-08-18,(Other),(not set),45,0,0
+2019-08-18,Direct,(not set),141,0,0
+2019-08-18,Organic Search,(not set),9,0,0
+2019-08-18,Paid Search,(not set),1,0,0
+2019-08-18,Referral,(not set),110,0,2
+2019-08-18,Social,Facebook,1,0,0
+2019-08-18,Social,Instagram Stories,6,0,0
+2019-08-18,Social,LinkedIn,3,0,0
+2019-08-18,Social,Twitter,18,0,0
+2019-08-19,Direct,(not set),27,0,0
+2019-08-19,Email,(not set),1,0,0
+2019-08-19,Organic Search,(not set),5,0,0
+2019-08-19,Paid Search,(not set),2,0,0
+2019-08-19,Referral,(not set),82,0,0
+2019-08-19,Social,Facebook,9,0,0
+2019-08-19,Social,Instagram,2,0,0
+2019-08-19,Social,Instagram Stories,16,0,0
+2019-08-19,Social,LinkedIn,83,0,0
+2019-08-19,Social,Quora,71,0,3
+2019-08-19,Social,reddit,1,0,0
+2019-08-19,Social,Twitter,1,0,0
+2019-08-20,Direct,(not set),1,0,0
+2019-08-20,Organic Search,(not set),78,0,0
+2019-08-20,Paid Search,(not set),6,0,0
+2019-08-20,Referral,(not set),5,0,0
+2019-08-20,Social,Facebook,6,0,0
+2019-08-20,Social,Instagram Stories,10,0,0
+2019-08-20,Social,LinkedIn,65,0,0
+2019-08-20,Social,Twitter,15,0,0
+2019-08-21,Direct,(not set),15,0,0
+2019-08-21,Organic Search,(not set),13,0,0
+2019-08-21,Paid Search,(not set),8,0,0
+2019-08-21,Referral,(not set),10,0,0
+2019-08-21,Social,Facebook,4,0,0
+2019-08-21,Social,Instagram Stories,15,0,0
+2019-08-21,Social,LinkedIn,48,0,0
+2019-08-21,Social,Quora,20,0,0
+2019-08-21,Social,Twitter,67,0,0
+2019-08-22,Direct,(not set),5,2,0
+2019-08-22,Organic Search,(not set),18,0,0
+2019-08-22,Paid Search,(not set),7,0,0
+2019-08-22,Referral,(not set),137,0,1
+2019-08-22,Social,Facebook,94,0,0
+2019-08-22,Social,Instagram,189,0,0
+2019-08-22,Social,Instagram Stories,2,0,0
+2019-08-22,Social,LinkedIn,18,0,0
+2019-08-22,Social,Twitter,2,0,0
+2019-08-23,Direct,(not set),167,0,3
+2019-08-23,Email,(not set),3,0,0
+2019-08-23,Organic Search,(not set),3,0,0
+2019-08-23,Paid Search,(not set),11,0,0
+2019-08-23,Referral,(not set),3,0,0
+2019-08-23,Social,Facebook,238,2,1
+2019-08-23,Social,Instagram Stories,6,0,0
+2019-08-23,Social,LinkedIn,9,0,0
+2019-08-23,Social,Quora,20,0,0
+2019-08-23,Social,Twitter,2,0,0
+2019-08-24,Direct,(not set),1,0,0
+2019-08-24,Email,(not set),2,0,0
+2019-08-24,Organic Search,(not set),2,0,0
+2019-08-24,Paid Search,(not set),6,0,0
+2019-08-24,Referral,(not set),19,0,0
+2019-08-24,Social,Facebook,2,0,0
+2019-08-24,Social,Instagram Stories,9,0,0
+2019-08-24,Social,LinkedIn,39,0,0
+2019-08-24,Social,Twitter,93,0,0
+2019-08-25,Direct,(not set),29,0,0
+2019-08-25,Email,(not set),195,1,2
+2019-08-25,Organic Search,(not set),23,0,0
+2019-08-25,Paid Search,(not set),27,0,0
+2019-08-25,Referral,(not set),19,0,0
+2019-08-25,Social,Facebook,2,0,0
+2019-08-25,Social,Instagram Stories,15,0,0
+2019-08-25,Social,LinkedIn,16,0,0
+2019-08-25,Social,Quora,189,0,2
+2019-08-25,Social,Twitter,2,0,0
+2019-08-26,Direct,(not set),1,0,0
+2019-08-26,Email,(not set),4,0,0
+2019-08-26,Organic Search,(not set),28,0,0
+2019-08-26,Paid Search,(not set),2,0,0
+2019-08-26,Referral,(not set),4,0,0
+2019-08-26,Social,Facebook,5,0,0
+2019-08-26,Social,Instagram Stories,5,0,0
+2019-08-26,Social,LinkedIn,3,0,0
+2019-08-26,Social,Twitter,1,0,0
+2019-08-27,Direct,(not set),2,0,0
+2019-08-27,Organic Search,(not set),12,0,0
+2019-08-27,Paid Search,(not set),41,0,0
+2019-08-27,Referral,(not set),177,0,0
+2019-08-27,Social,Facebook,1,0,0
+2019-08-27,Social,Instagram Stories,180,0,2
+2019-08-27,Social,LinkedIn,3,0,0
+2019-08-27,Social,Twitter,211,0,0
+2019-08-28,(Other),(not set),5,0,0
+2019-08-28,Direct,(not set),38,0,0
+2019-08-28,Organic Search,(not set),3,0,0
+2019-08-28,Paid Search,(not set),3,0,0
+2019-08-28,Referral,(not set),22,0,0
+2019-08-28,Social,Facebook,12,0,0
+2019-08-28,Social,Instagram Stories,3,0,0
+2019-08-28,Social,LinkedIn,44,0,0
+2019-08-28,Social,Quora,12,0,0
+2019-08-28,Social,Twitter,80,0,0
+2019-08-29,(Other),(not set),2,0,0
+2019-08-29,Direct,(not set),5,0,0
+2019-08-29,Email,(not set),4,0,0
+2019-08-29,Organic Search,(not set),15,0,0
+2019-08-29,Paid Search,(not set),17,0,0
+2019-08-29,Referral,(not set),8,0,1
+2019-08-29,Social,Facebook,8,0,0
+2019-08-29,Social,LinkedIn,6,0,0
+2019-08-29,Social,Meetup,111,1,1
+2019-08-29,Social,Quora,32,0,0
+2019-08-29,Social,Twitter,44,0,0
+2019-08-30,Direct,(not set),7,0,0
+2019-08-30,Organic Search,(not set),48,0,0
+2019-08-30,Paid Search,(not set),1,0,0
+2019-08-30,Referral,(not set),15,0,0
+2019-08-30,Social,Facebook,6,0,1
+2019-08-30,Social,Instagram Stories,14,0,0
+2019-08-30,Social,Quora,4,0,0
+2019-08-30,Social,Twitter,14,0,0
+2019-08-31,Direct,(not set),8,0,0
+2019-08-31,Organic Search,(not set),12,0,0
+2019-08-31,Paid Search,(not set),6,0,0
+2019-08-31,Referral,(not set),105,0,0
+2019-08-31,Social,Facebook,3,0,0
+2019-08-31,Social,Instagram Stories,6,0,0
+2019-08-31,Social,LinkedIn,28,0,0
+2019-09-01,Direct,(not set),240,1,1
+2019-09-01,Display,(not set),119,0,1
+2019-09-01,Organic Search,(not set),2,0,0
+2019-09-01,Paid Search,(not set),6,0,0
+2019-09-01,Referral,(not set),8,0,1
+2019-09-01,Social,Facebook,5,0,0
+2019-09-01,Social,Instagram,13,0,0
+2019-09-01,Social,Instagram Stories,7,0,0
+2019-09-01,Social,LinkedIn,183,0,0
+2019-09-01,Social,Twitter,31,0,0
+2019-09-02,Direct,(not set),49,0,0
+2019-09-02,Display,(not set),1,0,0
+2019-09-02,Organic Search,(not set),32,2,1
+2019-09-02,Paid Search,(not set),6,0,0
+2019-09-02,Referral,(not set),2,0,0
+2019-09-02,Social,Facebook,1,0,0
+2019-09-02,Social,Instagram Stories,74,0,0
+2019-09-02,Social,LinkedIn,1,0,0
+2019-09-02,Social,Quora,2,0,0
+2019-09-02,Social,Twitter,26,0,0
+2019-09-03,Direct,(not set),6,0,0
+2019-09-03,Display,(not set),2,0,0
+2019-09-03,Organic Search,(not set),3,0,0
+2019-09-03,Paid Search,(not set),1,0,0
+2019-09-03,Referral,(not set),101,0,0
+2019-09-03,Social,Facebook,5,0,0
+2019-09-03,Social,Instagram,5,0,0
+2019-09-03,Social,Instagram Stories,7,0,0
+2019-09-03,Social,LinkedIn,44,0,0
+2019-09-03,Social,Twitter,17,0,1
+2019-09-04,Direct,(not set),19,0,0
+2019-09-04,Display,(not set),13,0,1
+2019-09-04,Email,(not set),15,0,0
+2019-09-04,Organic Search,(not set),60,0,0
+2019-09-04,Paid Search,(not set),34,0,0
+2019-09-04,Referral,(not set),23,0,1
+2019-09-04,Social,Facebook,2,0,0
+2019-09-04,Social,Instagram Stories,11,0,0
+2019-09-04,Social,LinkedIn,13,0,0
+2019-09-04,Social,Twitter,3,0,0
+2019-09-05,Direct,(not set),82,0,0
+2019-09-05,Display,(not set),52,0,1
+2019-09-05,Email,(not set),17,0,0
+2019-09-05,Organic Search,(not set),113,0,1
+2019-09-05,Paid Search,(not set),12,0,0
+2019-09-05,Referral,(not set),181,0,0
+2019-09-05,Social,Facebook,25,0,0
+2019-09-05,Social,Instagram Stories,72,0,1
+2019-09-05,Social,LinkedIn,108,0,1
+2019-09-06,Direct,(not set),89,0,2
+2019-09-06,Display,(not set),15,0,0
+2019-09-06,Organic Search,(not set),53,0,0
+2019-09-06,Paid Search,(not set),19,0,0
+2019-09-06,Referral,(not set),30,0,0
+2019-09-06,Social,Facebook,19,1,0
+2019-09-06,Social,Instagram Stories,20,0,0
+2019-09-06,Social,LinkedIn,5,0,0
+2019-09-06,Social,Twitter,1,0,0
+2019-09-07,Direct,(not set),9,0,0
+2019-09-07,Display,(not set),163,0,0
+2019-09-07,Organic Search,(not set),216,0,0
+2019-09-07,Paid Search,(not set),11,0,0
+2019-09-07,Referral,(not set),1,0,0
+2019-09-07,Social,Facebook,118,0,0
+2019-09-07,Social,Instagram Stories,5,0,0
+2019-09-07,Social,Twitter,1,0,0
+2019-09-08,(Other),(not set),48,0,0
+2019-09-08,Direct,(not set),1,0,0
+2019-09-08,Display,(not set),13,0,0
+2019-09-08,Organic Search,(not set),2,0,0
+2019-09-08,Paid Search,(not set),5,0,0
+2019-09-08,Referral,(not set),68,2,2
+2019-09-08,Social,Facebook,101,0,0
+2019-09-08,Social,Instagram Stories,1,0,0
+2019-09-08,Social,LinkedIn,31,0,0
+2019-09-09,(Other),(not set),1,0,0
+2019-09-09,Direct,(not set),3,0,0
+2019-09-09,Display,(not set),9,0,0
+2019-09-09,Email,(not set),1,0,0
+2019-09-09,Organic Search,(not set),1,0,0
+2019-09-09,Paid Search,(not set),2,0,0
+2019-09-09,Referral,(not set),104,0,1
+2019-09-09,Social,Facebook,2,0,0
+2019-09-09,Social,Instagram Stories,97,0,2
+2019-09-09,Social,LinkedIn,1,0,0
+2019-09-09,Social,Twitter,1,0,0
+2019-09-10,Direct,(not set),17,0,1
+2019-09-10,Display,(not set),14,0,0
+2019-09-10,Email,(not set),10,0,0
+2019-09-10,Organic Search,(not set),283,4,1
+2019-09-10,Paid Search,(not set),2,0,0
+2019-09-10,Referral,(not set),64,0,1
+2019-09-10,Social,Facebook,16,0,0
+2019-09-10,Social,Instagram Stories,1,0,0
+2019-09-10,Social,LinkedIn,59,0,0
